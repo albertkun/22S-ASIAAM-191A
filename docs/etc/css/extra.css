@@ -1,0 +1,18 @@
+.md-header, .md-tabs{
+    background: #2774ae !important;
+}
+
+.md-typeset a{
+    color:#2774ae
+}
+[data-md-color-scheme="slate"] {
+    --md-hue: 265; /* [0, 360] */
+  }
+
+:root {
+    --md-primary-bg-color:        #2774ae;
+
+  }
+  :root > * {
+    --md-code-bg-color:#2774ae;
+}
