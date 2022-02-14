@@ -1,6 +1,6 @@
 # Welcome
 
-This is the course material and syllabus for Asian American Studies 191A Web Development and GIS for Social Change: Critical Data for Transforming Civil Society.
+Welcome to the course material and syllabus for Web Development and GIS for Social Change: Critical Data for Transforming Civil Society.
 
 ## Class Links
 
