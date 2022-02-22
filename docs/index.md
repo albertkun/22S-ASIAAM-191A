@@ -6,17 +6,19 @@ Welcome to the course material and syllabus for Web Development and GIS for Soci
 
 Description|Link
 --|--
-Course GitHub Repository|[https://github.com/albertkun/21S-ASIAAM-191A](https://github.com/albertkun/21S-ASIAAM-191A-Assignments)
+Course GitHub Repository|[https://github.com/albertkun/22S-ASIAAM-191A](https://github.com/albertkun/22S-ASIAAM-191A)
 
 ## Class Details
 Asian American Studies Department, Spring, 2022
 
 Mondays, Wednesdays 2:00PM – 3:15PM
 
+Public Affairs 2400A
+
 ### Instructor
 Albert Kochaphum (albertkun@ucla.edu)
 ### Office Hours
-[Weds 3:15pm – 5pm](https://moodle2.sscnet.ucla.edu/mod/zoom/view.php?id=710586) and by appointment below:
+Weds 3:15pm – 5pm and by appointment below:
 - https://calendly.com/albertkun/office-hours
 
 ## Preparation
@@ -211,7 +213,7 @@ If you have any issues with installing the above, please do not hesitate to cont
 </tr>
 <tr class="odd">
 <td>3</td>
-<td><strong>Society, Technology, and Ethics</strong></td>
+<td><strong>Open Source and Web Mapping</strong></td>
 </tr>
 <tr class="even">
 <td>4</td>
@@ -249,8 +251,14 @@ If you have any issues with installing the above, please do not hesitate to cont
 
 I encourage your feedback at any time throughout the quarter about things that are helping you learn or difficult concepts. Please communicate with me if there are ways that we can improve the course to better support student learning.
 
+### COVID-19 Accomodations
+
+While in-person learning and attendence is strongly encouraged, class lectures will be recorded and provided to all students. To make up for in-person attendence, students are expected to be active on the class discussion board and/or Discord. Feel free to reach out at any point in the quarter if your situation changes and you require further accomodations.
+
 ### Personal Problems
-I understand that sometimes life makes it difficult to focus on schoolwork. If you are having a personal problem that affects your participation in this course, please talk to me to create a plan. Please do not wait until the end of the quarter to share any challenges that have negatively impacted your engagement and academic performance. The sooner we meet, the more options we will have available able to discuss to support your overall academic success.
+
+I understand that sometimes life makes it difficult to focus on schoolwork, especially during COVID-19 times. If you are having a personal problem that affects your participation in this course, please talk to me to create a plan. Please do not wait until the end of the quarter to share any challenges that have negatively impacted your engagement and academic performance. The sooner we meet, the more options we will have available able to discuss to support your overall academic success.
 
 ### Academic Accommodations Based on a Disability 
+
 Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE) at (310)825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit [www.cae.ucla.edu](http://www.cae.ucla.edu).
