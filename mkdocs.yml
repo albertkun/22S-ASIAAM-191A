@@ -63,12 +63,13 @@ plugins:
   - git-revision-date
   - autorefs
   - table-reader
-  - macros
   - tags
   - search:
       lang: en
   # - htmlproofer
       # raise_error: True
+  - awesome-pages
+  - macros
   - encryptcontent:
       title_prefix: '🔒'
       # global_password: !ENV ASIA_191_PASS
