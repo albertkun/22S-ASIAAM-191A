@@ -1,5 +1,5 @@
 
-site_name: Asian American Studies 191A Course Material
+site_name: AsAm191A-Web Development and GIS for Social Change
 repo_url: https://github.com/albertkun/22S-ASIAAM-191A/
 
 theme:
@@ -29,7 +29,7 @@ theme:
       - content.code.annotate
       - search.highlight
       - toc.integrate
-      - navigation.indexes
+      # - navigation.indexes
       - navigation.top
       - search.suggest
       
@@ -63,8 +63,10 @@ plugins:
   - git-revision-date
   - autorefs
   - table-reader
-  - macros
   - tags
+  - macros
+  - awesome-pages:
+      collapse_single_pages: true
   - search:
       lang: en
   # - htmlproofer

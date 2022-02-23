@@ -1,6 +1,13 @@
 .md-header, .md-tabs{
     background: #2774ae !important;
 }
+.md-typeset code {
+	background-color: #98c6e7;
+}
+
+.md-typeset code, .md-typeset kbd, .md-typeset pre {
+	color: #000
+}
 
 .md-typeset a{
     color:#2774ae
@@ -16,3 +23,5 @@
   :root > * {
     --md-code-bg-color:#2774ae;
 }
+
+
