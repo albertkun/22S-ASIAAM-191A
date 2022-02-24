@@ -1,5 +1,5 @@
 
-site_name: AsAm191A-Web Development and GIS for Social Change
+site_name: AA191A-Web Development and GIS for Social Change
 repo_url: https://github.com/albertkun/22S-ASIAAM-191A/
 
 theme:
@@ -42,7 +42,9 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.magiclink
     - smarty
+    - footnotes
     - meta
+    - pymdownx.keys
     - toc:
         permalink: True
         toc_depth: 2
