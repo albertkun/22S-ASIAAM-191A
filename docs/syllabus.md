@@ -100,25 +100,29 @@ civil society. The two main objectives for this course are:
 
 ### Remote Learning Expectations for Students
 
-Even though remote learning has been in session for more than a year,
-students are expected to be respectful of various difficulties
-associated with online instruction that others may have. I hope that you
+!!! info
+
+    Lectures will be recorded and provided to students.
+
+Even though remote learning has been in session for a few years now, we find ourselves in a hybrid situation. For students attending online, please respectful of various difficulties
+associated with teaching both in an offline and online setting that others may have. I hope that you
 will communicate with me if you experience anything in this course that
 does not support an inclusive environment. You can also report any
 incidents you may witness or experience online the Office of Equity,
 Diversity, and Inclusion on [their website](https://equity.ucla.edu/).
+
 Basic Zoom protocols for this course are as follows:
 
 -   Mute microphones when not talking
 
--   Feel free to use the chat to ask questions at any time
+-   Feel free to use the chat to ask questions at any time, but be aware that students attending class in-person will be focused on first
 
 -   Ensure that your preferred name and pronouns are included in your
     Zoom name
 
 -   Though encouraged, video cameras are optional
 
-    -   If cameras are turned off, please provide a profile picture, this will help me to identify you throughout the course 
+    -   If cameras are turned off, please provide a profile picture, this will help me to identify you throughout the course
 
 ### Lab Requirements
 
