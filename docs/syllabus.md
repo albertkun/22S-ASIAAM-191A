@@ -19,7 +19,8 @@ Public Affairs 2400A
 Albert Kochaphum (albertkun@ucla.edu)
 ### Office Hours
 Weds 3:15pm – 5pm and by appointment below:
-- https://calendly.com/albertkun/office-hours
+
+    - https://calendly.com/albertkun/office-hours
 
 ## Preparation
 - Fill out the [pre-course survey](https://forms.gle/jtda8UdbYinUjYzC8) **before** the first day of instruction (3/28/2022).
