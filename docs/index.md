@@ -66,6 +66,7 @@ civic engagement, these tools are underutilized or simply seen as tools
 “left to the experts”. This course prepares students to be informed
 digital citizens and transfer these tools for practical application in
 civil society. The two main objectives for this course are: 
+
 1. To walk away with technical web development skills relevant to mapping for civil society
 2. To apply an ethical mapping framework to such projects.
 
@@ -93,9 +94,7 @@ civil society. The two main objectives for this course are:
 
 ### Course materials
 
-> Dougherty, J. and Ilyankou, I. “Hands-On Data Visualization:
-> Interactive Storytelling from Spreadsheets to Code” O’Reilly Media, Inc. (2021). Available at https://handsondataviz.org/
-
+> Dougherty, J. and Ilyankou, I. “Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code” O’Reilly Media, Inc. (2021). Available at https://handsondataviz.org/
 
 ### Remote Learning Expectations for Students
 
@@ -121,20 +120,13 @@ Basic Zoom protocols for this course are as follows:
 
 ### Lab Requirements
 
-Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/). [Firefox](https://www.mozilla.org/en-US/firefox/new/), a modern web-browser with built-in debugging is highly recommended. Use of other software is allowed but not supported (i.e. you are on your own to troubleshoot).
+Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/) and a [GitHub account](https://github.com/join). [Firefox](https://www.mozilla.org/en-US/firefox/new/) is the official web browser for the class. Use of other software is allowed but not supported (i.e. you are on your own to troubleshoot).
 
 Please be sure to have required software installed prior to lab sessions. Reach out if there are any installation issues or concerns before labs.
 
 ### Lab Assistance
 
-While the goal in the course is to ease everyone into GIS and writing
-code, I understand that the process may be intimidating and difficult.
-Rest assured that your success is my success, and I will try my best in
-making a learning environment that breaks down these initial barriers.
-We all have gone through the same struggles learning new technology, and
-I strongly encourage you get help as often as possible. Steps for
-troubleshooting technical problems can often be solved by a quick online
-search or reviewing lab materials for a misstep. The class community discussion forums is another resource for help. Regardless, do not hesitate to reach out to me for help.
+While the goal in the course is to ease everyone into GIS and writing code, I understand that the process may be intimidating and difficult. Rest assured that your success is my success, and I will try my best in making a learning environment that breaks down these initial barriers. We all have gone through the same struggles learning new technology, and I strongly encourage you get help as often as possible. Steps for troubleshooting technical problems can often be solved by a quick online search or reviewing lab materials for a misstep. The class community discussion forums is another resource for help. Regardless, do not hesitate to reach out to me for help.
 
 ## Assignments and Evaluation
 
@@ -157,14 +149,16 @@ attend all lectures and labs each week.
 <!-- Detailed list of assignments can be found on this page. -->
 
 ### Participation
-While participation is a bit subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
+
+While participation is somewhat subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
   - Participating in class discussions 
-  - Asking questions on the GitHub discussion board 
+  - Asking questions on the GitHub discussion board
   - Helping other students on the discussion board
   - Coming to office hours
   - Overall class attendence
 
 ### Extra Credit
+
 Extra credit will be given to students that provide exceptional work or contributions throughout the course. Optional assignments are opportunities for extra credit as well.
 
 ### Course Expectations
