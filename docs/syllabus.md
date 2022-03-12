@@ -102,7 +102,7 @@ civil society. The two main objectives for this course are:
 
 !!! info
 
-    Lectures will be recorded and provided to students.
+    Though in-person attendence is recommended, lectures will be recorded and provided to students.
 
 Even though remote learning has been in session for a few years now, we find ourselves in a hybrid situation. For students attending online, please respectful of various difficulties
 associated with teaching both in an offline and online setting that others may have. I hope that you
