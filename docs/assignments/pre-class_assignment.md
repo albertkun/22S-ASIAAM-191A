@@ -6,7 +6,7 @@
 
     Due **before** 3/28/2022
 
-- Fill out the [pre-course survey](https://forms.gle/nifb6shCtFvEftZY7)
+- Fill out the [pre-course survey](https://forms.gle/jtda8UdbYinUjYzC8)
 
 ## Optional: Install software
 

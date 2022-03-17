@@ -32,11 +32,12 @@ Weds 3:15pm – 5pm and by appointment below:
 
 (Lam, C., Kochaphum, A., UCLA [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
-“Maps have always been made; they may have been one of the first forms
-of human communication. Maps exist in many forms, can represent
-different ideas and are used for many purposes. In choosing what to
-represent, how to represent it and what not to represent, maps are
-expressions of power.” –Logan Cochrane, Jon Corbett and Peter Keller,
+> “Maps have always been made; they may have been one of the first forms
+> of human communication. Maps exist in many forms, can represent
+> different ideas and are used for many purposes. In choosing what to
+> represent, how to represent it and what not to represent, maps are
+> expressions of power.” 
+–Logan Cochrane, Jon Corbett and Peter Keller,
 Impact of Community-based and Participatory Mapping
 
 ## Course Description
