@@ -1,6 +1,5 @@
-# How-To Guides
-Below are step-by-step guides on getting started with the course. If you run into any issues, please ask on the GitHub discussion forums.
-
+# List of class How-To guides
+Below are step-by-step guides on getting started with the course. If you run into any issues, please ask on [Discord](https://discord.gg/BpWSHYNsZA) or the [GitHub discussion forums](https://github.com/albertkun/22S-ASIAAM-191A/discussions/categories/help-desk).
 
 ## [Committing code to GitHub in VS Code](git_commit.md)
 
