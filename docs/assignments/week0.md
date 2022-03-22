@@ -1,5 +1,5 @@
 
-# Preparation
+# Week 0
 
 ## Pre-course survey
 !!! warning
@@ -7,6 +7,10 @@
     Due **before** 3/28/2022
 
 - Fill out the [pre-course survey](https://forms.gle/jtda8UdbYinUjYzC8)
+
+## Optional: Check out pre-lab #1
+
+You can get a head start by doing the [first pre-lab](week1/prelab.md).
 
 ## Optional: Install software
 
