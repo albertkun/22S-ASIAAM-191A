@@ -16,6 +16,7 @@ jobs:
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-encryptcontent-plugin
+      - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-git-revision-date-plugin
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-autorefs

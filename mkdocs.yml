@@ -1,6 +1,6 @@
 
-site_name: Asian American Studies 191A Course Material
-repo_url: https://github.com/albertkun/AA191A-Template-Repository/
+site_name: AA191A-Web Development and GIS for Social Change
+repo_url: https://github.com/albertkun/22S-ASIAAM-191A/
 
 theme:
   palette:
@@ -29,7 +29,7 @@ theme:
       - content.code.annotate
       - search.highlight
       - toc.integrate
-      - navigation.indexes
+      # - navigation.indexes
       - navigation.top
       - search.suggest
       
@@ -42,7 +42,9 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.magiclink
     - smarty
+    - footnotes
     - meta
+    - pymdownx.keys
     - toc:
         permalink: True
         toc_depth: 2
@@ -64,6 +66,9 @@ plugins:
   - autorefs
   - table-reader
   - tags
+  - macros
+  - awesome-pages:
+      collapse_single_pages: true
   - search:
       lang: en
   # - htmlproofer
