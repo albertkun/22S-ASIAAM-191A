@@ -1,4 +1,4 @@
-# Pre-Lab
+# Pre-Lab #1
 
 !!! info
     Pre-labs consist of the following:
@@ -20,8 +20,8 @@ Please have this completed before the lab:
 
 Here are guides to help with signing-up with GitHub and installing GitSCM:
 
-1. [How to sign-up for GitHub](../../tutorials/github_sign_up.md)
-2. [How to install GitSCM](../../tutorials/gitscm.md)
+1. [How to sign-up for GitHub](../../help/github_sign_up.md)
+2. [How to install GitSCM](../../help/gitscm.md)
 
 If you have any further trouble with these steps, be sure reach out to me [albertkun@ucla.edu](mailto:albertkun@ucla.edu) before the lab session.
 
