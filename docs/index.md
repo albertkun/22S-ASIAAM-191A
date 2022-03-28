@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/951997086465921025?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BpWSHYNsZA)
 
-Welcome to the course website where you can find all the material for the class. Remember to use the Discord, GitHub Discussion board, email, or visit and office hour if you have any questions!
+Welcome to the course website where you can find all the material for the class. Remember to use the [Discord :material-discord:](https://discord.gg/BpWSHYNsZA), [GitHub discussion board :material-github:](https://github.com/albertkun/22S-ASIAAM-191A/discussions/), [email :material-email:](mailto:albertkun@oarc.ucla.edu), or utilize [office hours](https://albertkun.github.io/22S-ASIAAM-191A/syllabus/#office-hours) if you have any questions!
 
 ## Class Links
 

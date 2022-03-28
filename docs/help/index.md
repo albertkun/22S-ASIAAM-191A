@@ -1,8 +1,8 @@
 # Help
 
-If you run into any issues, please check the guides below first. Then feel free to ask on [Discord](https://discord.gg/BpWSHYNsZA) or the [GitHub discussion forums](https://github.com/albertkun/22S-ASIAAM-191A/discussions/categories/help-desk).
+If you run into any issues, please check the guides below first. Then feel free to ask on [Discord :material-discord:](https://discord.gg/BpWSHYNsZA) or the [GitHub discussion forums :material-github:](https://github.com/albertkun/22S-ASIAAM-191A/discussions/categories/help-desk).
 
-You can also contact me below if you have further questions.
+You can always contact me below if you have questions.
 
 ## Instructor Contact
 
