@@ -1,5 +1,7 @@
 # Home
 
+[![Discord](https://img.shields.io/discord/951997086465921025?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BpWSHYNsZA)
+
 Welcome to the course website where you can find all the material for the class. Remember to use the Discord, GitHub Discussion board, email, or visit and office hour if you have any questions!
 
 ## Class Links
