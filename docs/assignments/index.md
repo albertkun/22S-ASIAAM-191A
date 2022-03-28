@@ -9,6 +9,6 @@
 |[**Intro to Web Dev**](./week1/prelab.md)|Pre-lab|Wednesday 3/30|
 <!-- |[** What are problems with the way we use data and GIS?**](./week1/thinking_cap.md)|Thinking Cap|Monday 4/4|
 [**An Introduction to Critical Cartography**](./week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)|Weekly Reading|Monday 4/4| -->
-<!-- |[**Simple Portfolio**](./week1/lab_assignment_1.md)|Lab Assignment|Wednesday 4/6|
-|[**Repository and Readme**](./week1/group_assignment_1.md)|Group Assignment|Wednesday 4/6| -->
-<!-- |[**Intro to Web Maps**](./week/pre_lab_2.md)|Pre-lab|Wednesday 4/6| -->
+<!-- |[**Simple Portfolio**](./week1/lab_assignment.md)|Lab Assignment|Wednesday 4/6|
+|[**Repository and Readme**](./week1/group_assignment.md)|Group Assignment|Wednesday 4/6| -->
+<!-- |[**Intro to Web Maps**](./week2/prelab.md)|Pre-lab|Wednesday 4/6| -->

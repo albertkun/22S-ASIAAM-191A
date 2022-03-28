@@ -9,7 +9,7 @@
  - 3 to 5 sentences minimum
  - Feel free to include links and images
 
-For more info see [how to submit thinking caps, part 1](../../tutorials/thinking_caps.md).
+For more info see [how to submit thinking caps, part 1](../../help/thinking_caps.md).
 
 !!! important
     To be eligible for extra credit, you **must** complete this part one day **before** the due date (e.g. 4/3 at 1pm PST).
@@ -22,4 +22,4 @@ Leave a reply on the posts of two other students, reflecting on what you think o
 !!! info
     Try to respond to students posts with no replies.
 
-For more details see [how to submit thinking caps, part 2](../../tutorials/[thinking_caps.md#part-2-responding-to-discussions))
+For more details see [how to submit thinking caps, part 2](../../help/thinking_caps.md#part-2-responding-to-discussions)

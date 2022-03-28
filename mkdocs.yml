@@ -28,7 +28,7 @@ theme:
       - navigation.tabs
       - content.code.annotate
       - search.highlight
-      - toc.integrate
+      - toc.follow
       # - navigation.indexes
       - navigation.top
       - search.suggest
@@ -37,6 +37,9 @@ theme:
     repo: fontawesome/brands/github
 
 markdown_extensions:
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.highlight:
         linenums: true
     - pymdownx.superfences
@@ -73,6 +76,8 @@ plugins:
       lang: en
   # - htmlproofer
       # raise_error: True
+  - awesome-pages
+  - macros
   - encryptcontent:
       title_prefix: '🔒'
       # global_password: !ENV ASIA_191_PASS
