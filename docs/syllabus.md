@@ -2,12 +2,6 @@
 
 Welcome to the syllabus and course material for Web Development and GIS for Social Change: Critical Data for Transforming Civil Society.
 
-## Class Links
-
-Description|Link
---|--
-Course GitHub Repository|[https://github.com/albertkun/22S-ASIAAM-191A](https://github.com/albertkun/22S-ASIAAM-191A)
-
 ## Class Details
 Asian American Studies Department, Spring, 2022
 
@@ -16,11 +10,11 @@ Mondays, Wednesdays 2:00PM – 3:15PM
 Public Affairs 2400A
 
 ### Instructor
-Albert Kochaphum (albertkun@ucla.edu)
+Albert S. Kochaphum (albertkun@ucla.edu)
 ### Office Hours
-Weds 3:15pm – 5pm and by appointment below:
+Weds 3:15pm – 5pm in Math Sciences 4328 ([UCLA Technology Sandbox](https://sandbox.idre.ucla.edu/sandbox/where-is-the-sandbox)) and online by appointment below:
 
-    - https://calendly.com/albertkun/office-hours
+- https://calendly.com/aa191a/office-hours
 
 ## Preparation
 - Fill out the [pre-course survey](https://forms.gle/jtda8UdbYinUjYzC8) **before** the first day of instruction (3/28/2022).
@@ -28,7 +22,7 @@ Weds 3:15pm – 5pm and by appointment below:
 <!-- [Static Syllabus in PDF form](22S-AAS-191A_Syllabus_2022.pdf) -->
 #### Please note: This syllabus is subject to change.
 
-[<img src=".\media\syllabus1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
+[<img src="..\media\syllabus1.png" style="width:5.06944in;height:2.56289in" />](https://www.hatecrimemap.com)
 
 (Lam, C., Kochaphum, A., UCLA [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
@@ -37,6 +31,7 @@ Weds 3:15pm – 5pm and by appointment below:
 > different ideas and are used for many purposes. In choosing what to
 > represent, how to represent it and what not to represent, maps are
 > expressions of power.” 
+> 
 –Logan Cochrane, Jon Corbett and Peter Keller,
 Impact of Community-based and Participatory Mapping
 
@@ -68,6 +63,7 @@ civic engagement, these tools are underutilized or simply seen as tools
 “left to the experts”. This course prepares students to be informed
 digital citizens and transfer these tools for practical application in
 civil society. The two main objectives for this course are: 
+
 1. To walk away with technical web development skills relevant to mapping for civil society
 2. To apply an ethical mapping framework to such projects.
 
@@ -95,9 +91,7 @@ civil society. The two main objectives for this course are:
 
 ### Course materials
 
-> Dougherty, J. and Ilyankou, I. “Hands-On Data Visualization:
-> Interactive Storytelling from Spreadsheets to Code” O’Reilly Media, Inc. (2021). Available at https://handsondataviz.org/
-
+> Dougherty, J. and Ilyankou, I. “Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code” O’Reilly Media, Inc. (2021). Available at https://handsondataviz.org/
 
 ### Remote Learning Expectations for Students
 
@@ -111,36 +105,28 @@ will communicate with me if you experience anything in this course that
 does not support an inclusive environment. You can also report any
 incidents you may witness or experience online the Office of Equity,
 Diversity, and Inclusion on [their website](https://equity.ucla.edu/).
-
 Basic Zoom protocols for this course are as follows:
 
 -   Mute microphones when not talking
 
--   Feel free to use the chat to ask questions at any time, but be aware that students attending class in-person will be focused on first
+-   Feel free to use the chat to ask questions at any time
 
 -   Ensure that your preferred name and pronouns are included in your
     Zoom name
 
 -   Though encouraged, video cameras are optional
 
-    -   If cameras are turned off, please provide a profile picture, this will help me to identify you throughout the course
+    -   If cameras are turned off, please provide a profile picture, this will help me to identify you throughout the course 
 
 ### Lab Requirements
 
-Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/). [Firefox](https://www.mozilla.org/en-US/firefox/new/), a modern web-browser with built-in debugging is highly recommended. Use of other software is allowed but not supported (i.e. you are on your own to troubleshoot).
+Lab assignments will require [Microsoft Visual Studio Code](https://code.visualstudio.com) in addition to [Git](https://git-scm.com/) and a [GitHub account](https://github.com/join). [Firefox](https://www.mozilla.org/en-US/firefox/new/) is the official web browser for the class. Use of other software is allowed but not supported (i.e. you are on your own to troubleshoot).
 
 Please be sure to have required software installed prior to lab sessions. Reach out if there are any installation issues or concerns before labs.
 
 ### Lab Assistance
 
-While the goal in the course is to ease everyone into GIS and writing
-code, I understand that the process may be intimidating and difficult.
-Rest assured that your success is my success, and I will try my best in
-making a learning environment that breaks down these initial barriers.
-We all have gone through the same struggles learning new technology, and
-I strongly encourage you get help as often as possible. Steps for
-troubleshooting technical problems can often be solved by a quick online
-search or reviewing lab materials for a misstep. The class community discussion forums is another resource for help. Regardless, do not hesitate to reach out to me for help.
+While the goal in the course is to ease everyone into GIS and writing code, I understand that the process may be intimidating and difficult. Rest assured that your success is my success, and I will try my best in making a learning environment that breaks down these initial barriers. We all have gone through the same struggles learning new technology, and I strongly encourage you get help as often as possible. Steps for troubleshooting technical problems can often be solved by a quick online search or reviewing lab materials for a misstep. The class community discussion forums is another resource for help. Regardless, do not hesitate to reach out to me for help.
 
 ## Assignments and Evaluation
 
@@ -163,14 +149,16 @@ attend all lectures and labs each week.
 <!-- Detailed list of assignments can be found on this page. -->
 
 ### Participation
-While participation is a bit subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
+
+While participation is somewhat subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
   - Participating in class discussions 
-  - Asking questions on the GitHub discussion board 
+  - Asking questions on the GitHub discussion board
   - Helping other students on the discussion board
   - Coming to office hours
   - Overall class attendence
 
 ### Extra Credit
+
 Extra credit will be given to students that provide exceptional work or contributions throughout the course. Optional assignments are opportunities for extra credit as well.
 
 ### Course Expectations
