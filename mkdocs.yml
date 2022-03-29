@@ -42,10 +42,10 @@ markdown_extensions:
         emoji_index: !!python/name:materialx.emoji.twemoji
         emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.highlight:
-        linenums: true
+        linenums: false
+    - pymdownx.tabbed
     - pymdownx.superfences
     - pymdownx.magiclink
-    - pymdownx.tabbed
     - smarty
     - footnotes
     - meta
