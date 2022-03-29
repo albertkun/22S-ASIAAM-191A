@@ -24,6 +24,7 @@ theme:
   name: material
   custom_dir: overrides
   features:
+      - content.tabs.link
       - navigation.instant
       - navigation.tabs
       - content.code.annotate
@@ -44,6 +45,7 @@ markdown_extensions:
         linenums: true
     - pymdownx.superfences
     - pymdownx.magiclink
+    - pymdownx.tabbed
     - smarty
     - footnotes
     - meta
