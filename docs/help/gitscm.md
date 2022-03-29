@@ -45,9 +45,11 @@
           - If it is not working, send an email or post on the GitHub discussion board.
 
 6.  Set our identity to our GitHub username for Git by running:  
+
 ```bash
 git config --global user.name "YOUR_GITHUB_USERNAME"
 ```
+
 !!! important
     Remember to change `"YOUR_GITHUB_USERNAME"` to your actual GitHub Username and include the double quotes `" "`
 
