@@ -14,5 +14,5 @@
 ## Course Materials
 |Week | Title | Content | Slides | Recording |
 |-----|-------|------|--------|-----------|
-|1|Introducing the course, GIS, data, and ethics|Lecture #1|Not yet available|Not yet available|
+|1|Introducing the course, GIS, data, and ethics|Lecture #1|[Here](https://github.com/albertkun/22S-ASIAAM-191A/blob/main/docs/materials/AA191_S_W1_Lecture_1.pdf)|[Here](https://ucla.zoom.us/rec/share/Myx7i_4O2k1C3Mewy5h35Cahechc6ttUfQz1h7BteKUVZeC3lMOptu3MwSj_60KH.QKCzesXcQr0cegd8)|
 |1|Hello World (of HTML, Javascript, CSS, and Leaflet mapping!)|Lab #1|Not yet available|Not yet available|
