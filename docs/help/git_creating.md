@@ -4,41 +4,41 @@ This guide is designed to show you how to create a repository and add group memb
 1.  After logging in to GitHub click the plus icon and choose `New
     repository`:
 
-> <img src="media\git_creating1.png"  />
+![](./media/git_creating1.png){: style="max-width:500px"}
 
-2.  Input your group name:
+1.  Input your group name:
 
-> <img src="media\git_creating2.png"  />
+![](./media/git_creating2.png){: style="max-width:500px"}
 
 3.  Click `Create Repository`:
 
-> <img src="media\git_creating3.png"  />
+![](./media/git_creating3.png){: style="max-width:500px"}
 
 ## Adding your partners as collaborators
 
 4.  Go to settings:
 
-> <img src="media\git_creating4.png"  />
+![](./media/git_creating4.png){: style="max-width:500px"}
 
 5.  Click manage access:
 
-> <img src="media\git_creating5.png"  />
+![](./media/git_creating5.png){: style="max-width:500px"}
 
 6.  Click invite a collaborator:
 
-> <img src="media\git_creating6.png"  />
+![](./media/git_creating6.png){: style="max-width:500px"}
 
 7.  Search for your teammate’s email or username:
 
-> <img src="media\git_creating7.png"  />
+![](./media/git_creating7.png){: style="max-width:500px"}
 
 8.  Click:
 
-> <img src="media\git_creating8.png"  />
+![](./media/git_creating8.png){: style="max-width:500px"}
 
 9.  And add:
 
-> <img src="media\git_creating9.png"  />
+![](./media/git_creating9.png){: style="max-width:500px"}
 
 10. Remember to clone the repository locally and start collaborating!
 

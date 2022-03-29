@@ -2,44 +2,57 @@
 
 1.  Go to: <https://git-scm.com/>
 
-1.  Download and install:
+2.  Download and install:
 
     A.  For PC:
     -  Run the installer and go through the installation wizard. 
-    -  <img src="media\gitInstall.png" style="width:4.09743in;height:0.98616in" />
+    -  ![](./media/gitInstall.png){: style="max-width:500px"}
 
     B.  For Mac:
-    - Make sure you have [Homebrew installed](https://brew.sh/)
-      
-    - Open launcher and search “terminal”:
-    <img src="media\gitcsm_mac_terminal.jpg" style="width:4.09743in;height:0.98616in" />
-
-    - In the terminal then type run `brew install git`:
-    <img src="media\terminalup.png" style="width:4.09743in;height:0.98616in" />
-    
+!!! note
+    Make sure you have [Homebrew installed](https://brew.sh/). If you can run the command 'brew' then you are good to go.
 
 
-2.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run `git --version` to test the installation: 
-    <img src="media\image5.png" style="width:4.09743in;height:0.98616in" />
+
+ - Open launcher and search 'Terminal':
+ ![](./media/gitcsm_mac_terminal.jpg){: style="max-width:500px"}
+
+ - In the terminal then type `brew install git`:
+ ![](./media/terminalup.png){: style="max-width:500px"}
+ 
+
+
+3.  Launch the command prompt (PC) or stay inside the terminal (Mac) and run:
+```bash
+git --version
+```
+This tests the installation: 
+    ![](./media/image5.png){: style="max-width:500px"}
      - If it is working, move to **step 4**
      - If it is not working, send an email or post on the GitHub discussion board.
 
-<!-- -->
-
 4.  Set our identity to our GitHub username for Git by running:  
-    `git config --global user.name "YOUR_GITHUB_USERNAME"`
-    - Remember to change `"YOUR_GITHUB_USERNAME"` to your actual GitHub Username and include the double quotes `" "`
+```bash
+git config --global user.name "YOUR_GITHUB_USERNAME"
+```
+!!! important
+    Remember to change `"YOUR_GITHUB_USERNAME"` to your actual GitHub Username and include the double quotes `" "`
 
-5.  Now set your email to the email you signed up with GitHub by running :
-`git config --global user.email YOUR@EMAIL.COM`
-    - Remember to change `YOUR@EMAIL.COM` to your actual GitHub email
+1.  Now set your email to the email you signed up with GitHub by running :
+
+```bash
+git config --global user.email YOUR@EMAIL.COM
+```
+
+!!! important
+    Remember to change `YOUR@EMAIL.COM` to your actual GitHub email
 
 <!-- -->
 
-6.  Once finished, run the following to check your email and username:
+1.  Once finished, run the following to check your email and username:
 `git config --list`
 
 7.  If you had any issues, please check this documentation for more
     details or reach out for help.
 
-8.  Now you are ready to clone a repository!
+8.  Now you are ready to [clone a repository](git_cloning.md) in [VS Code](https://code.visualstudio.com/)!

@@ -9,6 +9,7 @@ You can always contact me below if you have questions.
 Albert S. Kochaphum (albertkun@ucla.edu)
 
 ### Office Hours
+
 Weds 3:15pm – 5pm in Math Sciences 4328 ([UCLA Technology Sandbox](https://sandbox.idre.ucla.edu/sandbox/where-is-the-sandbox)) and online by appointment below:
 
 - https://calendly.com/aa191a/office-hours
@@ -17,19 +18,22 @@ Weds 3:15pm – 5pm in Math Sciences 4328 ([UCLA Technology Sandbox](https://san
 ## List of class How-To guides
 Below are step-by-step guides on getting started with the course. 
 
+## Course Related
 
-## [Committing code to GitHub in VS Code](git_commit.md)
+## [1. Posting a Thinking Cap](thinking_caps.md)
 
-## [Creating a Repository in GitHub](git_creating.md)
+## Git Related
+### [1. GitHub Sign-Up](github_sign_up.md)
 
-## [GitHub Sign-Up](github_sign_up.md)
+### [2. Installing Git SCM](github_sign_up.md)
 
-## [Git Clone in VS Code](git_cloning.md)
+### [3. Creating a Repository in GitHub](git_creating.md)
 
-## [Git Forking in VS Code](git_forking.md)
+### [4. Git Clone in VS Code](git_cloning.md)
 
-## [Git Clone in VS Code](git_cloning.md)
+### [5. Committing code to GitHub in VS Code](git_commit.md)
 
-## [Posting a Thinking Cap](thinking_caps.md)
+<!-- ### [6. Git Forking in VS Code](git_forking.md) -->
 
-## [Working with Remote Updates in VS Code](git_fetch_remote_upstream.md)
+<!-- ### Extra
+## [2. Working with Remote Updates in VS Code](git_fetch_remote_upstream.md) -->

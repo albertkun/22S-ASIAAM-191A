@@ -1,0 +1,8 @@
+nav:
+    - Help index: index.md
+    - thinking_caps.md
+    - github_sign_up.md
+    - gitscm.md
+    - git_creating.md
+    - git_cloning.md
+    - git_commit.md
