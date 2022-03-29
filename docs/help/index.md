@@ -18,20 +18,20 @@ Weds 3:15pm – 5pm in Math Sciences 4328 ([UCLA Technology Sandbox](https://san
 ## List of class How-To guides
 Below are step-by-step guides on getting started with the course. 
 
-## Course Related
+### Course Related
 
-## [1. Posting a Thinking Cap](thinking_caps.md)
+#### [1. Posting a Thinking Cap](thinking_caps.md)
 
-## Git Related
-### [1. GitHub Sign-Up](github_sign_up.md)
+### Git Related
+#### [1. GitHub Sign-Up](github_sign_up.md)
 
-### [2. Installing Git SCM](github_sign_up.md)
+#### [2. Installing Git SCM](github_sign_up.md)
 
-### [3. Creating a Repository in GitHub](git_creating.md)
+#### [3. Creating a Repository in GitHub](git_creating.md)
 
-### [4. Git Clone in VS Code](git_cloning.md)
+#### [4. Git Clone in VS Code](git_cloning.md)
 
-### [5. Committing code to GitHub in VS Code](git_commit.md)
+#### [5. Committing code to GitHub in VS Code](git_commit.md)
 
 <!-- ### [6. Git Forking in VS Code](git_forking.md) -->
 

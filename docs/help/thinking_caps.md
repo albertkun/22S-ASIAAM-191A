@@ -3,7 +3,7 @@
 ## Part 1: Posting your own discussion
 
 !!! warning
-    Due at 2pm PST on Mondays, to be eligible for awards you must submit at 2pm PST on Sundays.
+    Due at 2pm PST on Mondays, but to be eligible for extra credit you must submit at **2pm PST on Sundays**.
 
 1. Make sure you are signed into your GitHub account. ![.\media/thinkingcap0.png](media/thinkingcap0.png)
 2. Go to the [course website](https://albertkun.github.io/22S-ASIAAM-191A/)
