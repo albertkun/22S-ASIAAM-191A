@@ -1,10 +1,10 @@
-
-# Extra Lab: Changing colors
+# ⭐Extra Lab: Changing colors
 
 If you'd rather use icons then a circular color, then try to see if you can implement this code, be sure to have a custom icon ready!
 
-#### Customizing Icons
-```javascript
+## Customizing Icons
+
+```js title="js/init.js"
 function createCustomIcon (feature, latlng) {
   let myIcon = L.icon({
     iconUrl: 'my-icon.png',
