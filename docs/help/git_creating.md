@@ -1,4 +1,4 @@
-# Guide for creating a repository
+# Guide for creating a repository and inviting group members
 This guide is designed to show you how to create a repository and add group members.
 
 1.  After logging in to GitHub click the plus icon and choose `New
