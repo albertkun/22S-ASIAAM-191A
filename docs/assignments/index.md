@@ -5,10 +5,15 @@
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Pre-course Survey and reading**](week0.md)|Survey|Monday 3/28|
 |[**Intro to Web Dev**](./week1/prelab.md)|Pre-lab|Wednesday 3/30|
-<!-- |[** What are problems with the way we use data and GIS?**](./week1/thinking_cap.md)|Thinking Cap|Monday 4/4|
-[**An Introduction to Critical Cartography**](./week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)|Weekly Reading|Monday 4/4| -->
-<!-- |[**Simple Portfolio**](./week1/lab_assignment.md)|Lab Assignment|Wednesday 4/6|
-|[**Repository and Readme**](./week1/group_assignment.md)|Group Assignment|Wednesday 4/6| -->
+|[** What are problems with the way we use data and GIS?**](./week1/thinking_cap.md)|Thinking Cap|Monday 4/4|
+[**An Introduction to Critical Cartography**](./week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)|Weekly Reading|Monday 4/4|
+|[**Simple Portfolio**](./week1/lab_assignment.md)|Lab Assignment|Wednesday 4/6|
+|[**Repository and Readme**](./week1/group_assignment.md)|Group Assignment|Wednesday 4/6|
 <!-- |[**Intro to Web Maps**](./week2/prelab.md)|Pre-lab|Wednesday 4/6| -->
+
+### Past Assignments
+
+|Assignment|Type|Due|
+|-----------|----|---|
+|[**Pre-course Survey and reading**](week0.md)|Survey|Monday 3/28|

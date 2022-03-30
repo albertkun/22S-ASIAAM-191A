@@ -1,10 +1,9 @@
 # Group Assignment 1: Repository and Readme
 
 !!! info "Group List"
-   Find your name and group on the spreadsheet to see remember which group you are in: [https://docs.google.com/spreadsheets/d/1amjsdypbGuijuiQtI44UNupEzJET94IFLNp0FVMT01w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1amjsdypbGuijuiQtI44UNupEzJET94IFLNp0FVMT01w/edit?usp=sharing
-)
+    Find your name and group on the spreadsheet to see remember which group you are in: [https://docs.google.com/spreadsheets/d/1amjsdypbGuijuiQtI44UNupEzJET94IFLNp0FVMT01w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1amjsdypbGuijuiQtI44UNupEzJET94IFLNp0FVMT01w/edit?usp=sharing)
 
-## Due Wednesday 4/6:
+## Due Wednesday 4/6
 
 1. Have one person create a new repo for the group and invite everyone as collaborators.
    
