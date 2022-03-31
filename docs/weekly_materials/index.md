@@ -12,7 +12,8 @@
 |[**Intro to Web Dev**](../assignments/week1/prelab.md)|Pre-lab|Wednesday 3/30|
 
 ## Course Materials
+
 |Week | Title | Content | Slides | Recording |
 |-----|-------|------|--------|-----------|
-|1|Introducing the course, GIS, data, and ethics|Lecture 1|[Here](https://raw.githubusercontent.com/albertkun/22S-ASIAAM-191A/main/docs/materials/AA191_S_W1_Lecture_1.pdf)|[Here](https://ucla.zoom.us/rec/share/Myx7i_4O2k1C3Mewy5h35Cahechc6ttUfQz1h7BteKUVZeC3lMOptu3MwSj_60KH.QKCzesXcQr0cegd8)|
-|1|Hello World (of HTML, Javascript, CSS, and Leaflet mapping!)|Lab 1|Not yet available|Not yet available|
+|1|Introducing the course, GIS, data, and ethics|Lecture 1|[Here](../materials/AA191_S_W1_Lecture_1.pdf)|[Here](https://ucla.zoom.us/rec/share/Myx7i_4O2k1C3Mewy5h35Cahechc6ttUfQz1h7BteKUVZeC3lMOptu3MwSj_60KH.QKCzesXcQr0cegd8)|
+|1|Hello World (of HTML, Javascript, CSS, and Leaflet mapping!)|Lab 1|[Here](../materials/AA191_S_W1_Lab_1.pdf)|[Here](https://ucla.zoom.us/rec/share/nGTyjYqKHijI-Bgv1ivoQws7EywxVT7oIsM-I0_314NIilWQINxPllNLfzbwWQ.pr1d-9qGUDSsGRyt)|
