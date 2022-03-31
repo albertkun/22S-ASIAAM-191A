@@ -21,6 +21,7 @@ Below are step-by-step guides on getting started with the course.
 ### Course Related
 
 #### [1. Posting a Thinking Cap](thinking_caps.md)
+#### [2. Submit Lab Assignments](submit.md)
 
 ### Git Related
 #### [1. GitHub Sign-Up](github_sign_up.md)
