@@ -4,7 +4,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |3/28|Lecture|Introducing the course, GIS, data, and ethics|[Here](https://raw.githubusercontent.com/albertkun/22S-ASIAAM-191A/main/docs/materials/AA191_S_W1_Lecture_1.pdf)|[Here](https://ucla.zoom.us/rec/share/Myx7i_4O2k1C3Mewy5h35Cahechc6ttUfQz1h7BteKUVZeC3lMOptu3MwSj_60KH.QKCzesXcQr0cegd8)|
-|3/30|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|Not available yet|Not available yet|
+|3/30|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|[Here](../materials/AA191_S_W1_Lab_1.pdf)|[Here](https://ucla.zoom.us/rec/share/nGTyjYqKHijI-Bgv1ivoQws7EywxVT7oIsM-I0_314NIilWQINxPllNLfzbwWQ.pr1d-9qGUDSsGRyt)|
 
 ## Lecture
 
