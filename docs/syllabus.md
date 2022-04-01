@@ -12,7 +12,7 @@ Public Affairs 2400A
 ### Instructor
 Albert S. Kochaphum (albertkun@ucla.edu)
 ### Office Hours
-Weds 3:15pm – 5pm in Math Sciences 4328 ([UCLA Technology Sandbox](https://sandbox.idre.ucla.edu/sandbox/where-is-the-sandbox)) and online by appointment below:
+Mon, Weds 3:15pm – 4pm in Public Affairs 2400A and online by appointment below:
 
 - https://calendly.com/aa191a/office-hours
 
