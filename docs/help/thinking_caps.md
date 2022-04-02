@@ -11,7 +11,7 @@
 4. Click on the "**Thinking Cap**" you are posting for ![./media/thinkingcap3.png](media/thinkingcap3.png)
 5. Scroll down to find the comment box: ![./media/thinkingcap4.png](media/thinkingcap4.png)
 6. Respond to the prompt for the week. ![./media/thinkingcap5.png](media/thinkingcap_response.png)
-7. Click ||Comment|| to submit: ![./media/thinkingcap5.png](media/thinkingcap5.png)
+7. Click ==Comment== to submit: ![./media/thinkingcap5.png](media/thinkingcap5.png)
 8. The first part of assignment is now complete!
 
 ## Part 2: Responding to discussions
@@ -20,7 +20,7 @@
 
 10. Try to look for student posts with no replies. ![./media/thinkingcap8.png](media/thinkingcap8.png)
 
-11. Type a thoughtful reply and click ||Comment|| .![./media/thinkingcap9.png](media/thinkingcap9.png)
+11. Type a thoughtful reply and click ==Comment== .![./media/thinkingcap9.png](media/thinkingcap9.png)
 
 12. Repeat **Steps #8 - #10** for another student.
 
