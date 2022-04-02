@@ -28,6 +28,7 @@ Learning how to use GitHub, VSCode, and some JavaScript.
 Start to form teams based on initially pre-assigned groups.
 
 ## Getting Started help
+
 1. [Signing-up with GitHub](../help/github_sign_up.md)
 2. [Git Cloning: Downloading a repo to your computer](../help/git_cloning.md)
 3. [Git Committing: Saving your changes to a repo](../help/git_commit.md)
@@ -50,7 +51,7 @@ Start to form teams based on initially pre-assigned groups.
 - #### [**Thinking Cap: What are problems with the way we use data and GIS?**](../assignments/week1/thinking_cap.md)
 - #### [**Finish the weekly reading**](../assignments/week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)
 
-### Due Wednesday 7/6
+### Due Wednesday 4/6
 
 - #### [**Lab #1: Portfolio**](../assignments/week1/lab_assignment.md)
 - #### [**Group Assignment #1: Repository and Readme**](../assignments/week1/group_assignment.md)
