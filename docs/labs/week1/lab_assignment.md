@@ -27,7 +27,8 @@ Your map portfolio must contain the following:
 ### Extra Credit: (any of these) 
    - Add another `html` page(it can be `more_about_me.html` or anything else) to a completely different HTML page not `index.html`. (Be sure to link it to your `index.html` and describe what you are showing)
 
-### HTML Resources to help with your assignment:
+### HTML Resources to help with your assignment
+
 - Short MDN HTML Syntax (good recap): 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
