@@ -1,7 +1,7 @@
-# Lab Assignment #1 - Map Portfolio
+# 📝Lab Assignment #1 - Map Portfolio
 
 ## Due 4/6
-Time to put your skills to the test and create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. This is your portfolio, so feel free to delete or add anything. If you made multiple HTML pages, please link them all to the `index.html` using the `<a href=""></a>` tag>.
+Time to put your skills to the test and create a home page for the individual maps that you will be making this quarter. Describe some of your interests. This is your portfolio, so feel free to delete or add anything. If you made multiple HTML pages, please link them all to the `index.html` using the `<a href=""></a>` tag>.
 
 Your map portfolio must contain the following:
 
@@ -27,7 +27,8 @@ Your map portfolio must contain the following:
 ### Extra Credit: (any of these) 
    - Add another `html` page(it can be `more_about_me.html` or anything else) to a completely different HTML page not `index.html`. (Be sure to link it to your `index.html` and describe what you are showing)
 
-### HTML Resources to help with your assignment:
+### HTML Resources to help with your assignment
+
 - Short MDN HTML Syntax (good recap): 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 

@@ -53,3 +53,4 @@ Start to form teams based on initially pre-assigned groups.
 
 - [**Lab #1: Portfolio**](../assignments/week1/lab_assignment.md)
 - [**Group Assignment #1: Repository and Readme**](../assignments/week1/group_assignment.md)
+- [Pre-lab](../assignments/week2/prelab.md)

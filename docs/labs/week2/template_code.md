@@ -1,4 +1,4 @@
-# Final Template Code
+# ✅ Final Template Code
 
 ```html title="index.html" linenums="1"
 <!DOCTYPE html>
@@ -14,9 +14,6 @@
         </script>
         <!-- Leaflet's css-->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-
-        <!-- Leaflet's JavaScript-->
-        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     </head>
     
     <body>
@@ -31,10 +28,8 @@
         <div id="footer">
             Copyright(2022)
         </div>
-        
-    </body>
 
-    <script src="./js/init.js"></script>
+    </body>
 </html>
 ```
 

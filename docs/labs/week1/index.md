@@ -1,13 +1,11 @@
 # GITting Used to Web Development and JavaScript
 
-![](././media/intro.png)
+![](././media/hello_world.png){: style="max-width:300px"}
 ## Objectives
 
 !!! tldr "Goals"
-    - Create a basic webpage 
-    - Add a Leaflet map
-    - Add GeoJSON data to the map
-    - Create a GeoJSON online
+    - Create a basic webpage
+    - Publish your page onto GitHub pages
 
 !!! caution "Reminder"
     The [pre-lab](../../assignments/week1/prelab) must completed before attempting this lab.
