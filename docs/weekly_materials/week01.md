@@ -11,7 +11,6 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 
 - ### Introducing the course, GIS, data, and ethics
 
-
 [Lecture 1 Slides](https://github.com/albertkun/22S-ASIAAM-191A/blob/main/docs/materials/AA191_S_W1_Lecture_1.pdf)
 
 ## Lab
@@ -43,15 +42,14 @@ Start to form teams based on initially pre-assigned groups.
 
 ### Due Wednesday 3/30
 
-- #### [**Pre-lab #1**](../assignments/week1/prelab.md)
+- [**Pre-lab #1**](../assignments/week1/prelab.md)
 
 ### Due Monday 4/4
 
-- #### [**Thinking Cap: What are problems with the way we use data and GIS?**](../assignments/week1/thinking_cap.md)
-- #### [**Finish the weekly reading**](../assignments/week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)
+- [**Thinking Cap: What are problems with the way we use data and GIS?**](../assignments/week1/thinking_cap.md)
+- [**Finish the weekly reading**](../assignments/week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)
 
 ### Due Wednesday 4/6
 
-- #### [**Lab #1: Portfolio**](../assignments/week1/lab_assignment.md)
-- #### [**Group Assignment #1: Repository and Readme**](../assignments/week1/group_assignment.md)
-
+- [**Lab #1: Portfolio**](../assignments/week1/lab_assignment.md)
+- [**Group Assignment #1: Repository and Readme**](../assignments/week1/group_assignment.md)
