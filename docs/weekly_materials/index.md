@@ -1,4 +1,4 @@
-# Weekly Summary
+# Summary
 
 |Week|Topic|
 |----|-----|

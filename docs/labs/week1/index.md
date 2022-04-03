@@ -1,6 +1,6 @@
 # GITting Used to Web Development and JavaScript
 
-![](././media/hello_world.png)
+![](././media/hello_world.png){: style="max-width:300px"}
 ## Objectives
 
 !!! tldr "Goals"
