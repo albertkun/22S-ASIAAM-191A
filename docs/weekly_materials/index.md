@@ -2,7 +2,8 @@
 
 |Week|Topic|
 |----|-----|
-|Week 1|[GIS, Data, and Ethics :link:](week01.md)|
+|#1|[GIS, Data, and Ethics :link:](week01.md)|
+|#2|[Humanizing Technology :link:](week02.md)|
 
 ## Upcoming Due Dates
 
