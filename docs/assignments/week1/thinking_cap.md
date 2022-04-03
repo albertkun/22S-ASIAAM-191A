@@ -1,11 +1,13 @@
 # Thinking cap #1
 
 !!! warning
-    Due on Monday (4/4) at 1pm PST*
+    Due on Monday (4/4) at 1pm PST
 
-> ## **Prompt**: What do you think are problems with the way we use data and GIS?
+!!! help "Prompt"
+    ## What do you think are problems with the way we use data and GIS?
 
 ## Part 1: Respond to the prompt on [GitHub](https://github.com/albertkun/22S-ASIAAM-191A/discussions/1)
+
  - 3 to 5 sentences minimum
  - Feel free to include links and images
 
