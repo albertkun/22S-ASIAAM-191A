@@ -1,6 +1,5 @@
 # Week 1 - GIS, Data, and Ethics
 
-
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |3/28|Lecture|Introducing the course, GIS, data, and ethics|[Here](https://raw.githubusercontent.com/albertkun/22S-ASIAAM-191A/main/docs/materials/AA191_S_W1_Lecture_1.pdf)|[Here](https://ucla.zoom.us/rec/share/Myx7i_4O2k1C3Mewy5h35Cahechc6ttUfQz1h7BteKUVZeC3lMOptu3MwSj_60KH.QKCzesXcQr0cegd8)|
@@ -19,7 +18,7 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 
 Learning how to use GitHub, VSCode, and some JavaScript.
 
-- ### [GITting Used to Web Development and JavaScript](../labs/week1/index.md)
+- [GITting Used to Web Development and JavaScript](../labs/week1/index.md)
 
 <!-- [Lab 1 Slides](./Materials/AA191_S_W1_Lab_1.pdf ) -->
 
