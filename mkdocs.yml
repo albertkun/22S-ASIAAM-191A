@@ -49,10 +49,10 @@ markdown_extensions:
     - pymdownx.highlight
     - pymdownx.tabbed
     - pymdownx.inlinehilite
-    - pymdownx.snippets
     - pymdownx.superfences
     - pymdownx.magiclink
     - pymdownx.details
+    - pymdownx.snippets
     - smarty
     - footnotes
     - meta

@@ -2,7 +2,7 @@
 
 1.  Go to the Lab Assignments Repository:
 
-> <https://github.com/albertkun/21S-ASIAAM-191A-Assignments/>
+> <https://github.com/albertkun/22S-ASIAAM-191A-Assignments/>
 
 2.  Click on the `Fork` button.
 
@@ -37,7 +37,7 @@
 
 > <img src="media\git_forking8.png"  />
 
-11. Run the following `git remote add upstream https://github.com/albertkun/21S-ASIAAM-191A-Assignments.git`
+11. Run the following `git remote add upstream https://github.com/albertkun/22S-ASIAAM-191A-Assignments.git`
 
 > <img src="media\git_forking9.png"  />
 

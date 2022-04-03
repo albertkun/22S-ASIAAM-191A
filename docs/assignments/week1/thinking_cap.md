@@ -14,7 +14,7 @@ Respond to the prompt on [GitHub](https://github.com/albertkun/22S-ASIAAM-191A/d
 For more info see [how to submit thinking caps, part 1](../../help/thinking_caps.md).
 
 !!! important "Reminder!"
-    To be eligible for extra credit, you **must** complete this part one day **before** the due date (e.g. 4/3 at 1pm PST).
+    To be eligible for extra credit, you **must** complete this part one day **before** the due date (e.g. 4/3 at 2pm PST).
 
 ## Part 2 - Reply
 
