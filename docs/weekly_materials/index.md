@@ -8,10 +8,10 @@
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[** What are problems with the way we use data and GIS?**](../assignments/thinking_cap.md)|Thinking Cap|Monday 4/4|
-[**An Introduction to Critical Cartography**](../assignments/reading.md) [[PDF]](../../materials/readings/An_Introduction_to_Critical_Cartography.pdf)|Weekly Reading|Monday 4/4|
-|[**Simple Portfolio**](../assignments/lab_assignment.md)|Lab Assignment|Wednesday 4/6|
-|[**Repository and Readme**](../assignments/group_assignment.md)|Group Assignment|Wednesday 4/6|
+|[** What are problems with the way we use data and GIS?**](../assignments/week1/thinking_cap.md)|Thinking Cap|Monday 4/4|
+[**An Introduction to Critical Cartography**](../assignments/week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)|Weekly Reading|Monday 4/4|
+|[**Simple Portfolio**](../assignments/week1/lab_assignment.md)|Lab Assignment|Wednesday 4/6|
+|[**Repository and Readme**](../assignments/week1/group_assignment.md)|Group Assignment|Wednesday 4/6|
 
 ## Course Materials
 
