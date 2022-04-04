@@ -12,6 +12,7 @@
 |[**Intro to Web Maps**](./week2/prelab.md)|Pre-lab|Wednesday 4/6|
 |[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 4/11|
 |[**How can we improve Critical Cartography?**](./week2/thinking_cap.md)|Thinking Cap|Monday 4/11|
+
 ### Past Assignments
 
 |Assignment|Type|Due|
