@@ -1,7 +1,7 @@
 # Week 2 - Humanizing Technology
 
 ## Lecture
-- Critical Cartography and Civil Society
+- [Critical Cartography and Civil Society](../materials/AA191_S_W2_Lecture_2.pdf)
  
 ### Visiting Voice: Mariah Tso
 ![../media/mariahtso.jpg](../media/mariahtso.jpg)
