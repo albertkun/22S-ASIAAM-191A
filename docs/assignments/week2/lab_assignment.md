@@ -1,8 +1,8 @@
-# 📝Lab Assignment #2 - JavaScript FUNctions
+# 📝Lab Assignment #2 - Your First Webmap
 
 ## Due 4/13
 
-In this lab, we learned about JavaScript and JavaScript functions that can be used for automating tasks. Functions also form the basis of the JavaScript programming we will be doing. Your assignment this week is to create a map for your portfolio with relevant points.
+In this lab, we learned how to use Leaflet and how JavaScript functions that can be used for automating tasks. Functions also form the basis of the JavaScript programming we will be doing. Your assignment this week is to create a map for your portfolio with relevant points.
 
 The requirements are:
 
