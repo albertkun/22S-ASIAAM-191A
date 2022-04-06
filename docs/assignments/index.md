@@ -17,5 +17,5 @@
 |-----------|----|---|
 |[** What are problems with the way we use data and GIS?**](./week1/thinking_cap.md)|Thinking Cap|Monday 4/4|
 [**An Introduction to Critical Cartography**](./week1/reading.md) [[PDF]](../materials/readings/An_Introduction_to_Critical_Cartography.pdf)|Weekly Reading|Monday 4/4|
-|[**Pre-course Survey and reading**](week0.md)|Survey|Monday 3/28|
 |[**Intro to Web Dev**](./week1/prelab.md)|Pre-lab|Wednesday 3/30|
+|[**Pre-course Survey and reading**](week0.md)|Survey|Monday 3/28|
