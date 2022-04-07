@@ -4,8 +4,9 @@
 
 In this lab, we learned how to use Leaflet and how JavaScript functions that can be used for automating tasks. Functions also form the basis of the JavaScript programming we will be doing. Your assignment this week is to create a map for your portfolio with relevant points.
 
-The requirements are:
+### Requirements
 
+- Incorporate a map into your portfolio page from last week's assignment
 - Add at least 3-4 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled.
 - Use a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) to add those markers to the your map
 - Markers should have popups that describe what the point is.

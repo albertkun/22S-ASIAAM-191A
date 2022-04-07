@@ -5,9 +5,9 @@
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Intro to Web Maps**](./week2/lab_assignment.md)|Lab Assingment|Wednesday 4/6|
 |[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 4/11|
 |[**How can we improve Critical Cartography?**](./week2/thinking_cap.md)|Thinking Cap|Monday 4/11|
+|[**Your First Web Map**](./week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
 |[**Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
 
 ### Past Assignments

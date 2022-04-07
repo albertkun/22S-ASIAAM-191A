@@ -6,6 +6,7 @@ In this lab, we learned how to use Leaflet and how JavaScript functions that can
 
 The requirements are:
 
+- Incorporate a map into your portfolio page from last week's assignment
 - Add at least 3-4 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled.
 - Use a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) to add those markers to the your map
 - Markers should have popups that describe what the point is.
