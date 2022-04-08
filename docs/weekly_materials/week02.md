@@ -28,7 +28,7 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 
 ### Due Monday 4/11 at 2pm PST
 
-- [**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)|Weekly Reading
+- [**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)
 - [Thinking Cap #2](https://github.com/albertkun/22S-ASIAAM-191A/discussions/10)
 
 ### Due Wendesday 4/13
