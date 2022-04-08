@@ -1,3 +1,9 @@
+---
+hide:
+  - tags
+tags:
+  - Week 2
+---
 # Week 2 Assignments List
 
 Below is the list of all assignments assigned at the start of week 2.

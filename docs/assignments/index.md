@@ -1,3 +1,9 @@
+---
+hide:
+  - tags
+tags:
+  - Assignments
+---
 # Current assignments
 
 !!! warning
