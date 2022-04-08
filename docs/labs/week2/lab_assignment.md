@@ -24,7 +24,7 @@ In this lab, we learned how to use Leaflet and how JavaScript functions that can
 
 - [Commit and publish your file to GitHub pages.](../week1/3.md#using-github-pages)
 
-- Find your `index.html` in the `week2` folder and copy the URL. It should look something like this:
+- Find your `index.html` in the `week2` on GitHub pages and copy the URL. It should look something like this:
   - https://albertkun.github.io/22S-ASIAAM-191A-Assignments/week2/index.html
 
 - Paste your link as a comment in the Discussion forum for Lab Assignment #2
