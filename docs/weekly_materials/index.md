@@ -12,7 +12,7 @@
 |[**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)|Weekly Reading|Monday 4/11|
 |[**How can we improve Critical Cartography?**](../assignments/week2/thinking_cap.md)|Thinking Cap|Monday 4/11|
 |[**Your First Webmap**](../assignments/week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
-|[**Project Memo**](../assignments/week2/group_assignment.md)|Group Assignment|Monday 4/20|
+|[**Project Memo**](../assignments/week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
 
 
 ## Course Materials
