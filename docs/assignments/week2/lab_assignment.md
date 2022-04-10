@@ -7,8 +7,8 @@ In this lab, we learned how to use Leaflet and how JavaScript functions that can
 The requirements are:
 
 - Incorporate a map into your portfolio page from last week's assignment
-- Add at least 3-4 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled.
-  - [Link to Lat/Lng tool](https://www.latlong.net/)
+- Add at least 3-4 markers to the map with a common theme, for example organizations you've volunteered for or places you've traveled. You can use this [Lat/Lng tool](https://www.latlong.net/) to help find points.
+  
 - Use a [JavaScript function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/Function) to add those markers to the your map
 - Markers should have popups that describe what the point is.
 - {--Add a GeoJSON with some other set of relevant information, you can search online for GeoJSON datasets if you'd like.--} (Moved to next lab.)
