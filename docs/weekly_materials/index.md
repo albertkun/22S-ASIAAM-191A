@@ -7,8 +7,10 @@
 |[**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)|Weekly Reading|Monday 4/11|
 |[**How can we improve Critical Cartography?**](../assignments/week2/thinking_cap.md)|Thinking Cap|Monday 4/11|
 |[**Your First Webmap**](../assignments/week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
+|[**Optional: GeoJSON Leaflet tutorial**](../assignments/week3/prelab.md)|Pre-lab|Wednesday 4/13|
+|[**Looking Beyond OpenSource**](../assignments/week3/reading.md)|Weekly Reading|Monday 4/18|
+|[**How are closed source tools harmful for civil society? What about open source tools?**](../assignments/week3/thinking_cap.md)|Thinking Cap|Monday 4/18|
 |[**Project Memo**](../assignments/week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
-
 ## Weekly summary overview
 
 |Week|Topic|

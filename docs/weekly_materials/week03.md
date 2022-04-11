@@ -11,7 +11,7 @@ Date|Type|Description|Slides|Recording|
 
 ### Visiting Voice: Machiko Yasuda
 
-![../media/machikoyasuda.jpg](../media/machikoyasuda.jpg){: style="max-width:500px"}
+![../media/machikoyasuda.jpg](../media/machikoyasuda.jpg){: style="max-width:300px"}
 
 Machiko Yasuda is an UCLA alumni formerly at the Daily Bruin, who now codes for the public at [compiler.la](https://compiler.la/). She is also involved in connecting people in LA to their environment in various ways, from teaching confident city cycling to starting a free mapping meetup called [Maptime LA](https://maptimela.github.io/). She is also involved in the non-profit active transportation group [ActiveSGV](https://www.activesgv.org/).
 
