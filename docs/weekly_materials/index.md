@@ -1,10 +1,5 @@
 # Summary
 
-|Week|Topic|
-|----|-----|
-|#1|[GIS, Data, and Ethics :link:](week01.md)|
-|#2|[Humanizing Technology :link:](week02.md)|
-
 ## Upcoming Due Dates
 
 |Assignment|Type|Due|
@@ -14,6 +9,13 @@
 |[**Your First Webmap**](../assignments/week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
 |[**Project Memo**](../assignments/week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
 
+## Weekly summary overview
+
+|Week|Topic|
+|----|-----|
+|#1|[GIS, Data, and Ethics :link:](week01.md)|
+|#2|[Humanizing Technology :link:](week02.md)|
+|#3|[Open source and web mapping :link:](week03.md)|
 
 ## Course Materials
 
