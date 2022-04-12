@@ -1,16 +1,5 @@
 # Summary
 
-## Upcoming Due Dates
-
-|Assignment|Type|Due|
-|-----------|----|---|
-|[**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)|Weekly Reading|Monday 4/11|
-|[**How can we improve Critical Cartography?**](../assignments/week2/thinking_cap.md)|Thinking Cap|Monday 4/11|
-|[**Your First Webmap**](../assignments/week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
-|[**Optional: GeoJSON Leaflet tutorial**](../assignments/week3/prelab.md)|Pre-lab|Wednesday 4/13|
-|[**Looking Beyond OpenSource**](../assignments/week3/reading.md)|Weekly Reading|Monday 4/18|
-|[**How are closed source tools harmful for civil society? What about open source tools?**](../assignments/week3/thinking_cap.md)|Thinking Cap|Monday 4/18|
-|[**Project Memo**](../assignments/week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
 ## Weekly summary overview
 
 |Week|Topic|
@@ -27,3 +16,4 @@
 |1|Hello World (of HTML, Javascript, CSS, and Leaflet mapping!)|Lab 1|[Here](../materials/AA191_S_W1_Lab_1.pdf)|[Here](https://ucla.zoom.us/rec/share/nGTyjYqKHijI-Bgv1ivoQws7EywxVT7oIsM-I0_314NIilWQINxPllNLfzbwWQ.pr1d-9qGUDSsGRyt)|
 |2|Critical Cartography and Civil Society|Lecture 2|[Here](../materials/AA191_S_W2_Lecture_2.pdf)|[Here](https://ucla.zoom.us/rec/share/gQe9JnDooB_NOvsa90g0868VhBlDxyUFH2cOhL5bxDtoYG1owVM5OE5AFL19Owia.a0s2JhxwI0Ev3P9M)|
 |2|Tales from the JavaScript: Season 2|Lab 2|[Here](../materials/AA191_S_W2_Lab_2.pdf)|[Here](https://tinyurl.com/38my9eat)|
+|3|Community-driven software development|Lecture 3|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/-PPUt33bv-Wjv0SaclBmL0Clf0Pf8hd3eXjb87wlGpbVDpGJum2HrX0Zs9zdfdyV.vGJR0QBODIr6wyIf)|
