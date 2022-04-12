@@ -2,12 +2,12 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/11|Community-driven approaches to software development|Lecture|Comming soon|Comming soon|
-|4/13|Here's GeoJSON and our first user experience|Lab|Comming soon|Comming soon|
+|4/11|Community-driven approaches to software development|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/-PPUt33bv-Wjv0SaclBmL0Clf0Pf8hd3eXjb87wlGpbVDpGJum2HrX0Zs9zdfdyV.vGJR0QBODIr6wyIf)|
+|4/13|Here's GeoJSONny and our first user experience|Lab|Comming soon|Comming soon|
 
 ## Lecture
 
-- Community-driven approaches to software development
+- [Community-driven approaches to software development](../materials/AA191_S_W3_Lecture_3.pdf)
 
 ### Visiting Voice: Machiko Yasuda
 
