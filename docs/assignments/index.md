@@ -11,8 +11,6 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 4/11|
-|[**How can we improve Critical Cartography?**](./week2/thinking_cap.md)|Thinking Cap|Monday 4/11|
 |[**Your First Web Map**](./week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
 |[**Optional: GeoJSON Leaflet tutorial**](./week3/prelab.md)|Pre-lab|Wednesday 4/13|
 |[**Looking Beyond OpenSource**](./week3/reading.md)|Weekly Reading|Monday 4/18|
@@ -24,6 +22,8 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 4/11|
+|[**How can we improve Critical Cartography?**](./week2/thinking_cap.md)|Thinking Cap|Monday 4/11|
 |[**Simple Portfolio**](./week1/lab_assignment.md)|Lab Assignment|Wednesday 4/6|
 |[**Repository and Readme**](./week1/group_assignment.md)|Group Assignment|Wednesday 4/6|
 |[**Intro to Web Maps**](./week2/prelab.md)|Pre-lab|Wednesday 4/6|
