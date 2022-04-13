@@ -6,7 +6,6 @@ Creating our first map with [Leaflet.js](https://www.leaflet.js) and learning to
 
 !!! tldr "Goals"
     - Add a Leaflet map
-    - Create a GeoJSON online and it to the map with JavaScript
     - Understand how JavaScript works with HTML and CSS
     - Understand how JavaScript variables, functions, methods work together
 

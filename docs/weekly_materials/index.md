@@ -1,6 +1,6 @@
 # Summary
 
-## Weekly summary overview
+## Weekly overview
 
 |Week|Topic|
 |----|-----|
