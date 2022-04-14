@@ -20,7 +20,7 @@ tags:
 
 |Assignment|Due|Notes|Max Points|
 |----------|---|----|-----------|
-|Attend the event related to open and free internet technology and write about it|[UCLA JOLT's Special Issue Symposium on Governing the Digital Space RSVP]()||Friday 4/22| Panel is on 4/15 from 11am-12:30p, [RSVP here](https://www.eventbrite.com/e/ucla-jolts-special-issue-symposium-on-governing-the-digital-space-ucla-jo-tickets-312065234517)|10|
+|Attend the event related to open and free internet technology and write about it|[UCLA JOLT's Special Issue Symposium on Governing the Digital Space RSVP](https://github.com/albertkun/22S-ASIAAM-191A/discussions/15)||Friday 4/22| Panel is on 4/15 from 11am-12:30p, [RSVP here](https://www.eventbrite.com/e/ucla-jolts-special-issue-symposium-on-governing-the-digital-space-ucla-jo-tickets-312065234517)|10|
 |Watch this [YouTube Video on Firefox](https://www.youtube.com/watch?v=eA8O97U1Pbc) and reflect on it|Friday 4/22|5|
 
 Week 3 extra credit details can be found [here](./week3/extra_credit/).
