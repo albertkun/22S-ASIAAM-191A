@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |4/11|Community-driven approaches to software development|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/-PPUt33bv-Wjv0SaclBmL0Clf0Pf8hd3eXjb87wlGpbVDpGJum2HrX0Zs9zdfdyV.vGJR0QBODIr6wyIf)|
-|4/13|Here's GeoJSONny and our first user experience|Lab|Comming soon|Comming soon|
+|4/13|Here's GeoJSONny and our first user experience|Lab|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/I6YwGNDhoQ3bQrJPMVMBkNwP_bOEHSrUl-r9l2uCmdmXiMV9J2OxxpSeYBtP0lfC.yW6VrIs4lr9Hz8Hw)|
 
 ## Lecture
 
