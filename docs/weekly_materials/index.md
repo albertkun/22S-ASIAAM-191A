@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Open source and web mapping](week03.md)
+[Opensource and Community-based Empowerment](week04.md)
 
 ## Weekly overview
 
