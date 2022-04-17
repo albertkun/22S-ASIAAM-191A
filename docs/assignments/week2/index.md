@@ -17,4 +17,4 @@ Below is the list of all assignments assigned at the start of week 2.
 |[**Whose map? Who is empowered and who is disempowered?**](./reading.md)|Weekly Reading|Monday 4/11|
 |[**How can we improve Critical Cartography?**](./thinking_cap.md)|Thinking Cap|Monday 4/11|
 |[**Your First Web Map**](./lab_assignment.md)|Lab Assignment|Wednesday 4/13|
-|[**Project Memo**](./group_assignment.md)|Group Assignment|Monday 4/20|
+|[**Project Memo**](./group_assignment.md)|Group Assignment|Wednesday 4/20|

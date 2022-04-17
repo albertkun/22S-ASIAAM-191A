@@ -16,7 +16,7 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 
 ## Lab
 
-- Tales from the JavaScript: Season 2
+- [Tales from the JavaScript: Season 2](../labs/week2/index.md)
 
 ## Assignments
 
@@ -26,11 +26,16 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
   - [Submit using the discussion post](../help/submit.md)!!
 - [Pre-lab Reading](../assignments/week2/prelab.md)
 
-### Due Monday 4/11 at 2pm PST
+### Due Monday 4/11
 
 - [**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)
 - [Thinking Cap #2](https://github.com/albertkun/22S-ASIAAM-191A/discussions/10)
 
 ### Due Wendesday 4/13
-<!-- - [Group Assignment #2](../Week_2/Materials/group_assigment_2.md) -->
+
 - [Lab Assignment #2](../assignments/week2/lab_assignment.md)
+- [Optional: Pre-lab](../assignments/week3/pre-lab.md)
+
+### Due Wednesday 4/20
+
+- [Group Assignment #2](../assignments/week2/group_assignment.md)
