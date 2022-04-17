@@ -11,12 +11,10 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Looking Beyond OpenSource**](./week3/reading.md)|Weekly Reading|Monday 4/18|
-|[**How are closed source tools harmful for civil society? What about open source tools?**](./week3/thinking_cap.md)|Thinking Cap|Monday 4/18|
 |[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 4/20|
 |[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
 |[**Prelab**](./week4/prelab.md)|Prelab|Wednesday 4/20|
-<!-- |[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27| -->
+|[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
 
 ## ⭐Extra Credit Opportunities⭐
 
@@ -33,6 +31,8 @@ Week 3 extra credit details can be found [here](./week3/extra_credit/).
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Looking Beyond OpenSource**](./week3/reading.md)|Weekly Reading|Monday 4/18|
+|[**How are closed source tools harmful for civil society? What about open source tools?**](./week3/thinking_cap.md)|Thinking Cap|Monday 4/18|
 |[**Your First Web Map**](./week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
 |[**Optional: GeoJSON Leaflet tutorial**](./week3/prelab.md)|Pre-lab|Wednesday 4/13|
 |[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 4/11|

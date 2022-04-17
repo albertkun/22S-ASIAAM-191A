@@ -28,4 +28,4 @@ Date|Type|Description|Slides|Recording|
 
 ### Due Wedesday 4/27
 
-- [Group Assignment #3](../assignments/week4/group_assignment.md)
+- [Group Assignment #3 Survey](../assignments/week4/group_assignment.md)

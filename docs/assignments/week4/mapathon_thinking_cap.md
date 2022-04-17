@@ -1,6 +1,3 @@
-
-
-
 # Humanitarian Mapathon Thinking Cap
 
 !!! help "Prompt"
