@@ -15,13 +15,17 @@ tags:
 |[**How are closed source tools harmful for civil society? What about open source tools?**](./week3/thinking_cap.md)|Thinking Cap|Monday 4/18|
 |[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 4/20|
 |[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
+|[**Prelab**](./week4/prelab.md)|Prelab|Wednesday 4/20|
+|[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
 
 ## ⭐Extra Credit Opportunities⭐
 
-|Assignment|Due|Notes|Max Points|
-|----------|---|----|-----------|
-|Attend the event related to open and free internet technology and write about it [here](https://github.com/albertkun/22S-ASIAAM-191A/discussions/15)|Friday 4/22| Panel is on 4/15 from 11am-12:30p, [RSVP here](https://www.eventbrite.com/e/ucla-jolts-special-issue-symposium-on-governing-the-digital-space-ucla-jo-tickets-312065234517)|10|
-|Watch this [YouTube Video on Firefox](https://www.youtube.com/watch?v=eA8O97U1Pbc) and reflect on it|Friday 4/22||5|
+|Assignment|Max Points|Notes|Due|
+|----------|----------|-----|----|
+|Attend the event related to open and free internet technology and write about it [here](https://github.com/albertkun/22S-ASIAAM-191A/discussions/15)| Panel is on 4/15 from 11am-12:30p, [RSVP here](https://www.eventbrite.com/e/ucla-jolts-special-issue-symposium-on-governing-the-digital-space-ucla-jo-tickets-312065234517)|10|Monday 4/25|
+|Watch this [YouTube Video on Firefox](https://www.youtube.com/watch?v=eA8O97U1Pbc) and reflect on it||5|Monday 4/25|
+|Extra Thinking Cap||15|Monday 4/25|
+|Participate in the [LA Mapathon] and reflect on it with a [thinking Cap](./week4/mapathon_thinking_cap.md)|[Registration Link](https://usc.zoom.us/meeting/register/tJEtdeyprTspHtDXYni98Nl9BxqhaAYWYcEd)|20|Monday 4/25|
 
 Week 3 extra credit details can be found [here](./week3/extra_credit/).
 

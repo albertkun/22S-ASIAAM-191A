@@ -28,7 +28,3 @@ Prepare a short memo (no more than two pages) for your project either using Goog
 ## Submission
 
 Reply discussion post link for [Group Assignment #2](https://github.com/albertkun/22S-ASIAAM-191A/discussions/13)
-
-To help with scheduling the final, please also fill out this survey as a group:
-
-- [https://forms.gle/qX4iVgaEvJZcCsvm7](https://forms.gle/qX4iVgaEvJZcCsvm7)
