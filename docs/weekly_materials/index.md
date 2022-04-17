@@ -1,5 +1,9 @@
 # Summary
 
+## Current week
+
+[Open source and web mapping](week03.md)
+
 ## Weekly overview
 
 |Week|Topic|
