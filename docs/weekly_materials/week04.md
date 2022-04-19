@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/18|Ethical Software and Developing for Civil Society|Lecture|Coming Soon|Coming Soon|
+|4/18|Ethical Software and Developing for Civil Society|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/UDSvLi5tI4uhXG-vNAbCWxHlf3QyzMp9Om1Pe9Ph6QpAaKtomooKpmbWcBSzKnE4.m-R71g30D-UW9wVx )|
 |4/20|Community-Based Empowerment|Lab + Lecture|Coming Soon|Coming Soon|
 
 ## Lecture
