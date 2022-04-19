@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Open source and web mapping](week03.md)
+[Opensource and Community-based Empowerment](week04.md)
 
 ## Weekly overview
 
@@ -11,6 +11,7 @@
 |#1|[GIS, Data, and Ethics :link:](week01.md)|
 |#2|[Humanizing Technology :link:](week02.md)|
 |#3|[Open source and web mapping :link:](week03.md)|
+|#4|[Opensource and Community-based Empowerment :link:](week04.md)|
 
 ## Course Materials
 
@@ -22,3 +23,4 @@
 |2|Tales from the JavaScript: Season 2|Lab 2|[Here](../materials/AA191_S_W2_Lab_2.pdf)|[Here](https://tinyurl.com/38my9eat)|
 |3|Community-driven software development|Lecture 3|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/-PPUt33bv-Wjv0SaclBmL0Clf0Pf8hd3eXjb87wlGpbVDpGJum2HrX0Zs9zdfdyV.vGJR0QBODIr6wyIf)|
 |3|Going on and on with GeoJSON and Buttons|Lab 3|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/I6YwGNDhoQ3bQrJPMVMBkNwP_bOEHSrUl-r9l2uCmdmXiMV9J2OxxpSeYBtP0lfC.yW6VrIs4lr9Hz8Hw)|
+|4|Ethical Software and Developing for Civil Society|Lecture 4|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/UDSvLi5tI4uhXG-vNAbCWxHlf3QyzMp9Om1Pe9Ph6QpAaKtomooKpmbWcBSzKnE4.m-R71g30D-UW9wVx)|
