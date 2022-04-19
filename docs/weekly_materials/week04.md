@@ -7,8 +7,7 @@ Date|Type|Description|Slides|Recording|
 
 ## Lecture
 
-- Ethical Software and Developing for Civil Society
-<!-- - [Ethical Software and Developing for Civil Society](../materials/AA191_S_W3_Lecture_3.pdf) -->
+- [Ethical Software and Developing for Civil Society](../materials/AA191_S_W4_Lecture_4.pdf)
 
 ## Lab
 

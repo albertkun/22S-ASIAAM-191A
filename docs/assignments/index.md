@@ -14,6 +14,7 @@ tags:
 |[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 4/20|
 |[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
 |[**Prelab**](./week4/prelab.md)|Prelab|Wednesday 4/20|
+|[**Optional: Weekly reading**](./week4/reading.md)|Weekly Reading|Wednesday 4/20|
 |[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
 
 ## ⭐Extra Credit Opportunities⭐

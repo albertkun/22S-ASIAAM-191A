@@ -6,7 +6,7 @@ Design a survey that will focus on the community voices for your project.
 
 You may also revise your memo to ensure that you focus on specific community members or group.
 
-## Submission:
+## Submission
 
 !!! danger "Final Scheduling!"
     The survey form has questions about scheduling the final and a post-final event for the class. As such, you should fill out the form as a group.
