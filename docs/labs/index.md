@@ -2,8 +2,7 @@
 
 ## Current lab
 
-[Here's GeoJSONny and buttons](week3/index.md)
-<!-- [Google FORMulating Community-Based Empowerment](week4/index.md) -->
+[Google FORMulating Community-Based Empowerment](week4/index.md)
 
 ### Lab Summary
 
