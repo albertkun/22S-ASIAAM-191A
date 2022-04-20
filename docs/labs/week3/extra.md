@@ -1,4 +1,4 @@
-# ⭐Extra Lab: Changing colors
+# ⭐Extra: Changing colors
 
 If you'd rather use icons then a circular color, then try to see if you can implement this code, be sure to have a custom icon ready!
 
@@ -19,7 +19,9 @@ function createCustomIcon (feature, latlng) {
 }
 ```
 
-The following code will turn your geojson into a choropleth map:
+## GeoJSON Polygon Coloring
+
+If you drew polygons instead of markers, then following code will turn your geojson into a choropleth map:
 
 ```javascript
 // this is a function to get the color, notice how the numbers are hard coded, who decides that?
@@ -43,7 +45,7 @@ function style(feature) {
     };
 }
 
-fetch("js/lab1.geojson")
+fetch("map.geojson")
     .then(response => {
         return response.json()
     })
@@ -55,5 +57,4 @@ fetch("js/lab1.geojson")
             return layer.feature.properties.name;
         }).addTo(map);
     })
-
 ```
