@@ -24,3 +24,4 @@
 |3|Community-driven software development|Lecture 3|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/-PPUt33bv-Wjv0SaclBmL0Clf0Pf8hd3eXjb87wlGpbVDpGJum2HrX0Zs9zdfdyV.vGJR0QBODIr6wyIf)|
 |3|Going on and on with GeoJSON and Buttons|Lab 3|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/I6YwGNDhoQ3bQrJPMVMBkNwP_bOEHSrUl-r9l2uCmdmXiMV9J2OxxpSeYBtP0lfC.yW6VrIs4lr9Hz8Hw)|
 |4|Ethical Software and Developing for Civil Society|Lecture 4|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/UDSvLi5tI4uhXG-vNAbCWxHlf3QyzMp9Om1Pe9Ph6QpAaKtomooKpmbWcBSzKnE4.m-R71g30D-UW9wVx)|
+|4|Community-based Empowerment|Lab 4|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/0qPIjuRV9Ap2Kvnyz17OdYWno_1iQBtvOz1OAgg85Aq3SjD11icFRd_jphA28jcn.742EqdnjAnJkvp5O)|
