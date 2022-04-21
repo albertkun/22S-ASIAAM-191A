@@ -11,9 +11,6 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 4/20|
-|[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
-|[**Prelab**](./week4/prelab.md)|Prelab|Wednesday 4/20|
 |[**Optional: Weekly reading**](./week4/reading.md)|Weekly Reading|Monday 4/25|
 |[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
 
@@ -32,6 +29,9 @@ Week 3 extra credit details can be found [here](./week3/extra_credit/).
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 4/20|
+|[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
+|[**Prelab**](./week4/prelab.md)|Prelab|Wednesday 4/20|
 |[**Looking Beyond OpenSource**](./week3/reading.md)|Weekly Reading|Monday 4/18|
 |[**How are closed source tools harmful for civil society? What about open source tools?**](./week3/thinking_cap.md)|Thinking Cap|Monday 4/18|
 |[**Your First Web Map**](./week2/lab_assignment.md)|Lab Assignment|Wednesday 4/13|
