@@ -14,3 +14,4 @@ Below is the list of all assignments assigned at the start of week 4.
 |[**⭐Extra Thinking Cap #4⭐**](../week4/extra_thinking_cap.md)|Extra credit|Monday 4/25|
 |[**⭐Humanitarian Mapathon Extra Thinking Cap⭐**](../week4/mapathon_thinking_cap.md)|Extra credit|Monday 4/25|
 |[**Survey**](../week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
+|[**Revision: Memo**](../week4/group_assignment.md)|Group Assignment|Friday 4/29|

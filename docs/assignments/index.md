@@ -13,6 +13,7 @@ tags:
 |-----------|----|---|
 |[**Optional: Weekly reading**](./week4/reading.md)|Weekly Reading|Monday 4/25|
 |[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
+|[**Revision: Memo**](https://github.com/albertkun/22S-ASIAAM-191A/discussions/25)|Group Assignment|Friday 4/29|
 
 ## ⭐Extra Credit Opportunities⭐
 
