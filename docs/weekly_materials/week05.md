@@ -2,13 +2,12 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/25|Connecting the dots of technology and ethics|Lecture|Coming soon|Coming soon|
+|4/25|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/z0dw7O212LaOZB2pAukEDsrLOE3_toOg067oi1olFxfQGXC-R-hk8LgYIA-XlpX5.68lSlBzkSJTBl2We)|
 |4/27|Loops and APIs|Lab|Coming soon|Coming soon|
 
 ## Lecture
 
-- [Connecting the dots of technology and ethics](../materials/AA191_S_W3_Lecture_3.pdf)
-<!-- - [Connecting the dots of technology and ethics](../materials/AA191_S_W5_Lecture_5.pdf) -->
+- [Connecting the dots of technology and ethics](../materials/AA191_S_W5_Lecture_5.pdf)
 
 ## Lab
 
@@ -20,10 +19,13 @@ Date|Type|Description|Slides|Recording|
 
 - [Group Assignment #3](../assignments/week4/group_assignment.md)
   - [Submit using this Google form](https://forms.gle/qX4iVgaEvJZcCsvm7)!!
+### Due Friday 4/29
+
+- [Memo Revision #2](../assignments/week4/group_assignment.md)
 
 ### Due Monday 5/2
 
-- [**Readings about looking beyond Open Source**](../assignments/week5/reading.md)
+- [**Technology and Ethics**](../assignments/week5/reading.md)
 - [Thinking Cap #4](../assignments/week5/thinking_cap.md)
 
 ### Due Wendesday 5/4
