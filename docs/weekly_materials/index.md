@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Opensource and Community-based Empowerment](week04.md)
+[Science, Technology, and Ethics](week05.md)
 
 ## Weekly overview
 
@@ -12,6 +12,7 @@
 |#2|[Humanizing Technology :link:](week02.md)|
 |#3|[Open source and web mapping :link:](week03.md)|
 |#4|[Opensource and Community-based Empowerment :link:](week04.md)|
+|#5|[Science, Technology, and Ethics :link:](week05.md)|
 
 ## Course Materials
 

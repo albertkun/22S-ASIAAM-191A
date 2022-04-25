@@ -79,15 +79,13 @@ plugins:
   # - autorefs
   - table-reader
   - tags
-  - macros
   - awesome-pages:
       collapse_single_pages: true
+  - macros
   - search:
       lang: en
   # - htmlproofer
       # raise_error: True
-  - awesome-pages
-  - macros
   - encryptcontent:
       title_prefix: '🔒'
       # global_password: !ENV ASIA_191_PASS
