@@ -14,9 +14,9 @@ tags:
 |[**Optional: Weekly reading**](./week4/reading.md)|Weekly Reading|Monday 4/25|
 |[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
 |[**Revision: Memo**](https://github.com/albertkun/22S-ASIAAM-191A/discussions/25)|Group Assignment|Friday 4/29|
-|[**Technology and Ethics**](./reading.md)|Weekly Reading|Monday 5/2|
-|[**What are your ethical views?**](./thinking_cap.md)|Thinking Cap|Monday 5/2|
-|[**Loops and APIs**](./lab_assignment.md)|Lab Assignment|Wednesday 5/4|
+|[**Technology and Ethics**](./week5/reading.md)|Weekly Reading|Monday 5/2|
+|[**What are your ethical views?**](./week5/thinking_cap.md)|Thinking Cap|Monday 5/2|
+|[**Loops and APIs**](./week5/lab_assignment.md)|Lab Assignment|Wednesday 5/4|
 
 ## ⭐Extra Credit Opportunities⭐
 
