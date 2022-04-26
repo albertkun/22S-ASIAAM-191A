@@ -22,7 +22,7 @@ Mon, Weds 3:15pm – 4pm in Public Affairs 2400A and online by appointment below
 <!-- [Static Syllabus in PDF form](22S-AAS-191A_Syllabus_2022.pdf) -->
 #### Please note: This syllabus is subject to change.
 
-[../media/syllabus1.png](https://www.hatecrimemap.com){:style="width:5.06944in;height:2.56289in"}
+![](./media/syllabus1.png){:style="width:5.06944in;height:2.56289in"}
 
 (Lam, C., Kochaphum, A., UCLA [HateCrimeMap](https://www.hatecrimemap.com), 2020)
 
