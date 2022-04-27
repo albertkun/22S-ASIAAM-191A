@@ -17,7 +17,7 @@ Date|Type|Description|Slides|Recording|
 
 Instructions here:
 
-- [https://tinyurl.com/aa191-420](https://tinyurl.com/aa191-420)
+- [https://tinyurl.com/aa191-427ex](https://tinyurl.com/aa191-427ex)
 
 
 ## Assignments
