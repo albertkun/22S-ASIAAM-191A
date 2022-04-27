@@ -11,7 +11,14 @@ Date|Type|Description|Slides|Recording|
 
 ## Lab
 
-- Time 4 Loopin’ and APIs
+- [Time 4 Loopin’ and APIs](../labs/week5/index.md)
+
+## Group Exercise
+
+Instructions here:
+
+- [https://tinyurl.com/aa191-420](https://tinyurl.com/aa191-420)
+
 
 ## Assignments
 
