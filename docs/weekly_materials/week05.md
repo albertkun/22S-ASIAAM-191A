@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |4/25|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/z0dw7O212LaOZB2pAukEDsrLOE3_toOg067oi1olFxfQGXC-R-hk8LgYIA-XlpX5.68lSlBzkSJTBl2We)|
-|4/27|Loops and APIs|Lab|Coming soon|Coming soon|
+|4/27|Time 4 Loopin’ and APIs|Lab|Coming soon|Coming soon|
 
 ## Lecture
 
@@ -11,7 +11,7 @@ Date|Type|Description|Slides|Recording|
 
 ## Lab
 
-- Loops and APIs
+- Time 4 Loopin’ and APIs
 
 ## Assignments
 
