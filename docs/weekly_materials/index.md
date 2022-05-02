@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Science, Technology, and Ethics](week05.md)
+[Human-Centered Design](week06.md)
 
 ## Weekly overview
 
@@ -13,6 +13,7 @@
 |#3|[Open source and web mapping :link:](week03.md)|
 |#4|[Opensource and Community-based Empowerment :link:](week04.md)|
 |#5|[Science, Technology, and Ethics :link:](week05.md)|
+|#6|[Human-Centered Design :link:](week06.md)|
 
 ## Course Materials
 
@@ -27,4 +28,6 @@
 |4|Ethical Software and Developing for Civil Society|Lecture 4|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/UDSvLi5tI4uhXG-vNAbCWxHlf3QyzMp9Om1Pe9Ph6QpAaKtomooKpmbWcBSzKnE4.m-R71g30D-UW9wVx)|
 |4|Community-based Empowerment|Lab 4|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/0qPIjuRV9Ap2Kvnyz17OdYWno_1iQBtvOz1OAgg85Aq3SjD11icFRd_jphA28jcn.742EqdnjAnJkvp5O)|
 |5|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/z0dw7O212LaOZB2pAukEDsrLOE3_toOg067oi1olFxfQGXC-R-hk8LgYIA-XlpX5.68lSlBzkSJTBl2We)|
-|5|Time 4 Loopin’ and APIs|Lab|Coming soon|Coming soon|
+|5|Time 4 Loopin’ and APIs|Lab|[Here](../materials/AA191_S_W5_Lab_5.pdf)|[Here](https://ucla.zoom.us/rec/share/mop3x7PNsUEXih-YDZIq5gJJ6pChREE17967YFkMK0l2-StzwdiibdUCUaTmAavv.PEYLoEaW1PDp8PA9)|
+|6|5/2|Design DeciCSSions|Lab|Coming soon|Coming soon|
+|6|5/4|Designing for Civil Society|Lecture|Coming soon|Coming soon|
