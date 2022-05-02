@@ -21,7 +21,7 @@ Start by creating a `week6` folder in your lab assignments repo.
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Hello World</title>
+        <title>Lab 6</title>
         <!-- hint: remember to change your page title! -->
         <meta charset="utf-8" />
         <link rel="shortcut icon" href="#">
