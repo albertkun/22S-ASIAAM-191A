@@ -20,11 +20,11 @@ Instructions here:
 
 - [https://tinyurl.com/aa191-54ex](https://tinyurl.com/aa191-54ex) -->
 
-### Visiting Voice: Yoh Kawano
+### Visiting Voice: Tiffany Guerra-Huang
 
-![../media/yohkawano.jpg](../media/yohkawano.jpg){: style="max-width:500px"}
+![../media/tiffany-guerra-huang.jpg](../media/tiffany-guerra-huang.jpg){: style="max-width:500px"}
 
-[Tiffany Guerra-Huang](https://tiffanyguerrahuang.com/) is a designer at Metro who collaborates on visual communications for the public. She’s passionate about information design to empower, connect, and inspire. She deeply cares about access to quality education and transit, and working towards racial, economic, and gender justice.
+[Tiffany Guerra-Huang](https://tiffanyguerrahuang.com/) is a senior designer at Metro who collaborates on visual communications for the public. She’s passionate about information design to empower, connect, and inspire. She deeply cares about access to quality education and transit, and working towards racial, economic, and gender justice.
 
 Email: [tiffanyguerrahuang@gmail.com](mailto:tiffanyguerrahuang@gmail.com)
 
