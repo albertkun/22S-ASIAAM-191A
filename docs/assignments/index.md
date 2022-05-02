@@ -11,16 +11,21 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
-|[**Revision: Memo**](https://github.com/albertkun/22S-ASIAAM-191A/discussions/25)|Group Assignment|Friday 4/29|
 |[**Technology and Ethics**](./week5/reading.md)|Weekly Reading|Monday 5/2|
 |[**What are your ethical views?**](./week5/thinking_cap.md)|Thinking Cap|Monday 5/2|
 |[**Loops and APIs**](./week5/lab_assignment.md)|Lab Assignment|Wednesday 5/4|
+|[**Revise Surveys**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Wednesday 5/4|
+|[**Revise Memos**]|Group Assignment|Friday 5/6|
+<!-- |[**What do you think about Design Justice**](./week6/thinking_cap.md)|Thinking Cap|Monday 5/9|
+|[**Design Justice**](./week6/reading.md)|Weekly Reading|Monday 5/9|
+|[**Map Design**](./week6/lab_assignment.md)|Lab Assignment|Wednesday 5/4| -->
 
 ### Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Survey**](./week4/group_assignment.md)|Group Assignment|Wednesday 4/27|
+|[**Revision: Memo**](https://github.com/albertkun/22S-ASIAAM-191A/discussions/25)|Group Assignment|Friday 4/29|
 |[**Optional: Weekly reading**](./week4/reading.md)|Weekly Reading|Monday 4/25|
 |[**GeoJSON and User Experience**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 4/20|
 |[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 4/20|
