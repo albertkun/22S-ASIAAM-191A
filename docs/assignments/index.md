@@ -11,7 +11,6 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-
 |[**Loops and APIs**](./week5/lab_assignment.md)|Lab Assignment|Wednesday 5/4|
 |[**Revise Surveys**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Wednesday 5/4|
 |Optional [Take Tiffany's Survey](https://docs.google.com/forms/d/e/1FAIpQLSewtp-AVsaftbC2Ie5ZR5K03XSJXib-2SgpmQwYPDB4eaIGyw/viewform)|Survey|Wednesday 5/4|
