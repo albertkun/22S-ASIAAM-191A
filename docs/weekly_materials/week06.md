@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/2|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/YQ2y-8CigA6it2jZwJ0ne7SY0ZuYZPaXeXh66nCpHirMIAuCq-1ld-WiGPw_l7yd.wki8t5ghrUM2aHSk)|
+|5/2|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/YQ2y-8CigA6it2jZwJ0ne7SY0ZuYZPaXeXh66nCpHirMIAuCq-1ld-WiGPw_l7yd.wki8t5ghrUM2aHSk)|
 |5/4|Designing for Civil Society|Lecture|Coming soon|Coming soon|
 
 ## Lab
