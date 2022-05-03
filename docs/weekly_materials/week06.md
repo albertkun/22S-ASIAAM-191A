@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/2|Design DeciCSSions|Lab|Coming soon|Coming soon|
+|5/2|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/YQ2y-8CigA6it2jZwJ0ne7SY0ZuYZPaXeXh66nCpHirMIAuCq-1ld-WiGPw_l7yd.wki8t5ghrUM2aHSk)|
 |5/4|Designing for Civil Society|Lecture|Coming soon|Coming soon|
 
 ## Lab
@@ -35,8 +35,6 @@ Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 - [Lab #4](../assignments/week4/group_assignment.md)
 - [Survey Revision](../assignments/week4/group_assignment.md)
   - [Submit using this Google form](https://forms.gle/8TU2Hj8o6J7UYjZ7A)!!
-
-### Due Thursday 5/5
 
 - [Tiffany's Visiting Voice Survey](https://docs.google.com/forms/d/e/1FAIpQLSewtp-AVsaftbC2Ie5ZR5K03XSJXib-2SgpmQwYPDB4eaIGyw/) *Optional*
 
