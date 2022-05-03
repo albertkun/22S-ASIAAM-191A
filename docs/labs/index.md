@@ -2,8 +2,9 @@
 
 ## Current labs
 
-[Design DeCSSions](week6/index.md)
-[Time 4 Loopin' and APIs](week5/index.md)
+- [Design DeCSSions](week6/index.md)
+
+- [Time 4 Loopin' and APIs](week5/index.md)
 
 ### Lab Summary
 
