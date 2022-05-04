@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |5/2|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/YQ2y-8CigA6it2jZwJ0ne7SY0ZuYZPaXeXh66nCpHirMIAuCq-1ld-WiGPw_l7yd.wki8t5ghrUM2aHSk)|
-|5/4|Designing for Civil Society|Lecture|Coming soon|Coming soon|
+|5/4|Designing for Civil Society|Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](https://ucla.zoom.us/rec/share/nT4EU-GEBnNz5hkG4fgCH7616xnFzLRq4Z2C0QUzSDpyku-G59YJ01og_bkXblOc.FR7tk6vFkT6hJ-39)
 
 ## Lab
 
@@ -11,8 +11,7 @@ Date|Type|Description|Slides|Recording|
 
 ## Lecture
 
-- Designing for Civil Society
-<!-- - [Designing for Civil Society](../materials/AA191_S_W5_Lecture_5.pdf) -->
+- [Designing for Civil Society](../materials/AA191_S_W6_Lecture_6.pdf)
 
 <!-- ## Group Exercise
 
