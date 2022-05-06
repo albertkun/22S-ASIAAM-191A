@@ -16,3 +16,4 @@ Below is the list of all assignments assigned at the start of week 5.
 |[**What do you think about Design Justice**](thinking_cap.md)|Thinking Cap|Monday 5/9|
 |[**Design Justice**](reading.md)|Weekly Reading|Monday 5/9|
 |[**CSS Grid Layouts**](lab_assignment.md)|Lab Assignment|Wednesday 5/11|
+|**Survey Diagram and Wireframe**|Group Assignment|Wednesday 5/11|
