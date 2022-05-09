@@ -10,10 +10,6 @@ Date|Type|Description|Slides|Recording|
 - Putting the “us” in Design JUStice
 <!-- - [Putting the “us” in Design JUStice](./Materials/AA191_S_W7_Lecture_7.pdf) -->
 
-## Lab
-
-- Conditionals, Map Layers, and Visual Design
-<!-- - [Conditionals, Map Layers, and Visual Design](../labs/week7/index.md) -->
 
 ### Visiting Voice: Tiffany Guerra-Huang
 
@@ -22,6 +18,11 @@ Date|Type|Description|Slides|Recording|
 [Tiffany Guerra-Huang](https://tiffanyguerrahuang.com/) is a senior designer at Metro who collaborates on visual communications for the public. She’s passionate about information design to empower, connect, and inspire. She deeply cares about access to quality education and transit, and working towards racial, economic, and gender justice.
 
 Email: [tiffanyguerrahuang@gmail.com](mailto:tiffanyguerrahuang@gmail.com)
+
+## Lab
+
+- Conditionals, Map Layers, and Visual Design
+<!-- - [Conditionals, Map Layers, and Visual Design](../labs/week7/index.md) -->
 
 ## Assignments
 
