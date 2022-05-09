@@ -31,7 +31,8 @@ Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 
 ### Due Wednesday 5/4
 
-- [Lab #4](../assignments/week4/group_assignment.md)
+- [Lab Assignment #4](../assignments/week5/lab_assignment.md)
+- [Survey](../assignments/week4/group_assignment.md)
 - [Survey Revision](../assignments/week4/group_assignment.md)
   - [Submit using this Google form](https://forms.gle/8TU2Hj8o6J7UYjZ7A)!!
 

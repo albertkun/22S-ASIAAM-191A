@@ -11,17 +11,18 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Revise Memos**]|Group Assignment|Friday 5/6|
 |[**What do you think about Design Justice**](./week6/thinking_cap.md)|Thinking Cap|Monday 5/9|
 |[**Design Justice**](./week6/reading.md)|Weekly Reading|Monday 5/9|
 |[**Revise Surveys**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Wednesday 5/11|
 |[**Map Design**](./week6/lab_assignment.md)|Lab Assignment|Wednesday 5/11|
 |[**Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Wednesday 5/11|
-
+|[**Design Justice**](./week7/reading.md)|Weekly Reading|Monday 5/16|
+|[**The connection between Data Justice, Design Justice, and us**](./week7/thinking_cap.md)|Thinking Cap|Monday 5/16|
 ### Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Revise Memos**]|Group Assignment|Friday 5/6|
 |Optional [**Take Tiffany's Survey**](https://docs.google.com/forms/d/e/1FAIpQLSewtp-AVsaftbC2Ie5ZR5K03XSJXib-2SgpmQwYPDB4eaIGyw/viewform)|Survey|Wednesday 5/4|
 |[**Loops and APIs**](./week5/lab_assignment.md)|Lab Assignment|Wednesday 5/4|
 |[**Technology and Ethics**](./week5/reading.md)|Weekly Reading|Monday 5/2|

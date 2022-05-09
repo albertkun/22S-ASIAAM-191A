@@ -1,7 +1,7 @@
-
 # Week 0
 
 ## Pre-course survey
+
 !!! warning
 
     Due **before** 3/28/2022
