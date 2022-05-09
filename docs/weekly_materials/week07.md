@@ -1,4 +1,4 @@
-# Week 6 - Our role as facilitators
+# Week 7 - Our role as facilitators
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
