@@ -48,4 +48,4 @@ Email: [tiffanyguerrahuang@gmail.com](mailto:tiffanyguerrahuang@gmail.com)
 - Lab Assignment #6
 
 #### Readings:
-1. [Dencik, L., Redden, J., and Treré, E. (2019) Exploring Data Justice: Conceptions, Applications and Directions](../materials/DataJustice.pdf)
+1. [Dencik, L., Redden, J., and Treré, E. (2019) Exploring Data Justice: Conceptions, Applications and Directions](../materials/readings/DataJustice.pdf)
