@@ -1,4 +1,4 @@
-# Week 6 - Applications of Design Justice
+# Week 6 - Our role as facilitators
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|

@@ -5,4 +5,4 @@
 
 This week's reading is meant to connect with last's weeks reading on Design Justice and provide a framework for how we can approach our data in our group projects via Data Justice.
 
-- [Costanza-Chock, S. (2018) Design Justice.](../../materials/readings/DataJustice.pdf) [30-45 minutes]
+- [Dencik, L., Redden, J., and Treré, E. (2019) Exploring Data Justice: Conceptions, Applications and Directions](../materials/DataJustice.pdf) [25-30 minutes]

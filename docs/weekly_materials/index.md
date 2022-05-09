@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Human-Centered Design](week06.md)
+[Our role as facilitators](week07.md)
 
 ## Weekly overview
 
@@ -14,6 +14,7 @@
 |#4|[Opensource and Community-based Empowerment :link:](week04.md)|
 |#5|[Science, Technology, and Ethics :link:](week05.md)|
 |#6|[Human-Centered Design :link:](week06.md)|
+|#7|[Our role as facilitators :link:](week07.md)|
 
 ## Course Materials
 

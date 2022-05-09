@@ -18,7 +18,8 @@ tags:
 |[**Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Wednesday 5/11|
 |[**Design Justice**](./week7/reading.md)|Weekly Reading|Monday 5/16|
 |[**The connection between Data Justice, Design Justice, and us**](./week7/thinking_cap.md)|Thinking Cap|Monday 5/16|
-### Past Assignments
+
+## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|

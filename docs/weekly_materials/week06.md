@@ -25,6 +25,8 @@ Instructions here:
 
 [Yoh Kawano](https://twitter.com/yohman) is a research coordinator at UCLA’s [Institute for Digital Research and Technology](https://idre.ucla.edu/people/yoh-kawano). His community empowerment is on narratives in Japan’s Fukushima prefecture following the 2011 Tsunami.
 
+You can watch his film [here](https://filmfreeway.com/HumanError).
+
 Email: [yohman@gmail.com](mailto:yohman@gmail.com)
 
 ## Assignments
