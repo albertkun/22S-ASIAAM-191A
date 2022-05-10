@@ -7,9 +7,7 @@ Date|Type|Description|Slides|Recording|
 
 ## Lecture
 
-- Putting the “us” in Design JUStice
 - [Putting the “us” in Design JUStice](../materials/AA191_S_W7_Lecture_7.pdf)
-
 
 ### Visiting Voice: Tiffany Guerra-Huang
 
