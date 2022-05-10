@@ -32,3 +32,4 @@
 |5|Time 4 Loopin’ and APIs|Lab|[Here](../materials/AA191_S_W5_Lab_5.pdf)|[Here](https://ucla.zoom.us/rec/share/mop3x7PNsUEXih-YDZIq5gJJ6pChREE17967YFkMK0l2-StzwdiibdUCUaTmAavv.PEYLoEaW1PDp8PA9)|
 |6|5/2|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/YQ2y-8CigA6it2jZwJ0ne7SY0ZuYZPaXeXh66nCpHirMIAuCq-1ld-WiGPw_l7yd.wki8t5ghrUM2aHSk)|
 |6|5/4|Designing for Civil Society|Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](https://ucla.zoom.us/rec/share/nT4EU-GEBnNz5hkG4fgCH7616xnFzLRq4Z2C0QUzSDpyku-G59YJ01og_bkXblOc.FR7tk6vFkT6hJ-39)|
+|6|5/9|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|

@@ -2,13 +2,13 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/9|Putting the “us” in Design JUStice|Lecture|Coming soon|Coming soon|
+|5/9|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|
 |5/11|Conditionals, Map Layers, and Visual Design|Lab|Coming soon|Coming soon|
 
 ## Lecture
 
 - Putting the “us” in Design JUStice
-<!-- - [Putting the “us” in Design JUStice](./Materials/AA191_S_W7_Lecture_7.pdf) -->
+- [Putting the “us” in Design JUStice](../materials/AA191_S_W7_Lecture_7.pdf)
 
 
 ### Visiting Voice: Tiffany Guerra-Huang
