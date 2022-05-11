@@ -1,4 +1,4 @@
-# Conditionals, Map Layers, and Visual Design
+# ConditionALs, Map Layers, and Visual Design
 
 Today we will focus on styling our map through the use of Leaflet [`Feature groups`](https://leafletjs.com/reference.html#featuregroup), which means more JavaScript!
 
