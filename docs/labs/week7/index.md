@@ -1,6 +1,26 @@
-# ✅ Final Template Code
+# Conditionals, Map Layers, and Visual Design
 
-```html title="index.html" linenums="1" hl_lines="20 25 27 30"
+Today we will focus on styling our map through the use of Leaflet [`Feature groups`](https://leafletjs.com/reference.html#featuregroup), which means more JavaScript!
+
+`Feature groups` are like containers that you can use to group your map content. For this lab we will be creating two layers for our survey question of `"Is your English your first language?"`
+
+One group will be for `yes` and another group for `no`.
+
+![](./media/intro.png){: style="max-width:300px"}
+
+!!! tldr "Goals"
+    - Use conditional statements to add content into Leaflet `FeatureGroups`
+    - Use Leaflet's `circleMarkers` to visualize points
+    - Change the basemap for our maps
+
+Start by creating a `week7` folder in your lab assignments repo.
+
+!!! done "Get ahead start"
+    If you finished `lab 6`, you can also copy the contents of your `week_6` folder and skip the following setup section.
+
+## Starting template code for lab #7
+
+```html title="index.html" linenums="1"
 <!DOCTYPE html>
 <html>
     <head>
@@ -28,10 +48,11 @@
                 <div id="placeForButtons"></div>
                 <!-- Be sure to use your own survey here!!!!!!! -->
                 <div id="theSurvey">
-                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScD0IOr_U4r0q4HlBkZ7olkA5OJpgInePF8DQbIrIWDeTm1jw/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+                    <!-- moved the survey out of its iframe and into a button -->
+                    <div id="surveyButton">
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScD0IOr_U4r0q4HlBkZ7olkA5OJpgInePF8DQbIrIWDeTm1jw/viewform">📝Take the survey</a>
+                    </div>
                 </div>
-
             </div>
             <div id="the_map"></div>
         </div>
@@ -43,11 +64,11 @@
 </html>
 ```
 
-```js title="js/init.js" linenums="1" hl_lines="11 14-16 19-30 46"
+```js title="js/init.js" linenums="1"
 // declare variables
 let mapOptions = {'center': [34.0709,-118.444],'zoom':5}
 
-// use the variables
+// declare the map
 const map = L.map('the_map').setView(mapOptions.center, mapOptions.zoom);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -96,7 +117,7 @@ function processData(results){
 loadData(dataUrl)
 ```
 
-```css title="styles/style.css" linenums="1" hl_lines="3 6 26-31 38-46"
+```css title="styles/style.css" linenums="1"
 body{
     display: grid;
     grid-template-rows: 50px auto auto;
@@ -125,7 +146,7 @@ header{
 #contents{
     grid-area: content;
     display: grid;
-    grid-template-rows: 1fr 3fr; 
+    grid-template-rows: 3fr 1fr; 
     grid-template-areas: "buttonHome" "survey"
 }
 
@@ -136,6 +157,20 @@ header{
 
 #theSurvey{
     grid-area: survey;
+    justify-self: center; /* added this to center the button in the div */
+}
+
+/* css for the button */
+#surveyButton{
+    padding: 15px 32px;
+    margin: 10px;
+    background-color: #4CAF50;
+    cursor: pointer;
+}
+
+/* css for button to get rid of the underline */
+#surveyButton a{
+    text-decoration: none; 
 }
 
 #placeForButtons{

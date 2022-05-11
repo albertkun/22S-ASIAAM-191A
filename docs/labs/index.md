@@ -1,8 +1,9 @@
 # Labs
 
-## Current labs
+## Current lab
 
 - [Design DeCSSions](week6/index.md)
+<!-- - [Conditionals, Map Layers, and Visual Design](week7/index.md) -->
 
 ### Lab Summary
 
@@ -14,6 +15,7 @@
 |#4|[Google FORMulating Community-Based Empowerment](week4/index.md)|JavaScript|
 |#5|[Time 4 Loopin' and APIs](week5/index.md)|JavaScript|
 |#6|[Design DeCSSions](week6/index.md)|CSS,HTML,JavaScript|
+|#7|[Conditionals, Map Layers, and Visual Design](week7/index.md)|CSS,HTML,JavaScript|
 
 !!! warning "Remember!"
     Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.

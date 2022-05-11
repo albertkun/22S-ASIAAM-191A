@@ -11,11 +11,12 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Revise Surveys**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Wednesday 5/11|
 |[**Map Design**](./week6/lab_assignment.md)|Lab Assignment|Wednesday 5/11|
 |[**Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Wednesday 5/11|
+|[**Revise Surveys**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Monday 5/16|
 |[**Design Justice**](./week7/reading.md)|Weekly Reading|Monday 5/16|
 |[**The connection between Data Justice, Design Justice, and us**](./week7/thinking_cap.md)|Thinking Cap|Monday 5/16|
+|[**Conditional Visual Importance**](./week7/lab_assignment.md)|Lab Assignment|Wednesday 5/18|
 
 ## Past Assignments
 

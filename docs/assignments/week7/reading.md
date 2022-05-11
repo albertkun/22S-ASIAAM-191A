@@ -1,4 +1,4 @@
-# Weekly reading - Design Justice
+# Weekly reading - Data Justice
 
 !!! information "⌛ Reading time ⌛"
     - 25 - 30 minutes

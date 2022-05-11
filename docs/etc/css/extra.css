@@ -27,6 +27,6 @@
 } */
 
 
-/* .highlight .c, .highlight .c1, .highlight .ch, .highlight .cm, .highlight .cs, .highlight .sd {
-  color: blueviolet;
-} */
+.highlight .c, .highlight .c1, .highlight .ch, .highlight .cm, .highlight .cs, .highlight .sd {
+  color: #9e5ed9;
+}
