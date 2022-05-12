@@ -10,11 +10,10 @@ Below is the list of all assignments assigned at the start of week 5.
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Survey Revision**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Wednesday 5/4|
 |[**CSS Grid Layouts**](../week6/lab_assignment.md)|Lab Assignment|Wednesday 5/11|
 |[**Survey Diagram and Wireframe**](../week6/group_assignment.md)|Group Assignment|Wednesday 5/11|
-|**Memo Revision**|Group Assignment|Friday 5/13|
-|[**CSS Grid Layouts**](lab_assignment.md)|Lab Assignment|Monday 5/11|
-
-- [**Design Justice**](reading.md)
-- [Thinking Cap #5](thinking_cap.md)
+|**Memo Revision**|Group Assignment|Monday 5/16|
+|[**Survey Revision**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Monday 5/16|
+|[**The connection between Data Justice, Design Justice, and us**](thinking_cap.md)|Thinking Cap|Monday 5/16|
+|[**Data Justice**](reading.md)|Weekly Reading|Monday 5/16|
+|[**Conditional Visual Design**](lab_assignment.md)|Lab Assignment|Wednesday 5/18|

@@ -1,4 +1,4 @@
-# 📝Lab Assignment #6 - Conditional Visual Importance
+# 📝Lab Assignment #6 - Conditional Visual Design
 
 ### Due 5/18
 
