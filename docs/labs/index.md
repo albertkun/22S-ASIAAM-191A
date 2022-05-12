@@ -2,8 +2,7 @@
 
 ## Current lab
 
-- [Design DeCSSions](week6/index.md)
-<!-- - [Conditionals, Map Layers, and Visual Design](week7/index.md) -->
+- [Conditionals, Map Layers, and Visual Design](week7/index.md)
 
 ### Lab Summary
 

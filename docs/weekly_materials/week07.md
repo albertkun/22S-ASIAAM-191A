@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |5/9|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|
-|5/11|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lab|Coming soon|Coming soon|
+|5/11|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lab|[Here](../materials/AA191_S_W7_Lab_7.pdf)|[Here](https://tinyurl.com/mr2rfcvj)|
 
 ## Lecture
 
@@ -36,6 +36,7 @@ Email: [tiffanyguerrahuang@gmail.com](mailto:tiffanyguerrahuang@gmail.com)
 - [Thinking Cap #5](../assignments/week7/thinking_cap.md)
 - Memo Revision #3 (email to submit)
 - [Survey Revision](../assignments/week4/group_assignment.md)
+  
 ### Due Wednesday 5/18
 
 - [Lab Assignment #6](../assignments/week7/lab_assignment.md)
