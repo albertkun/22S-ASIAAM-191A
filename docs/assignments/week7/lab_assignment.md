@@ -15,3 +15,11 @@ Using your assignment from `week 6`, categorize your survey data to convey a mes
 
 - Try to create a different layout.
 - Attempt the refactor challenge using your own way to refactor the code
+
+## Submission
+
+- Commit your changes to GitHub
+- Find your `index.html` in the `Week_07` folder and copy the URL. It should look something like this:
+  - https://albertkun.github.io/22S-ASIAAM-191A-Assignments/Week_07/index.html
+- Paste your link as a comment in the Discussion forum for Lab Assignment #6:
+  - https://github.com/albertkun/22S-ASIAAM-191A/discussions/33
