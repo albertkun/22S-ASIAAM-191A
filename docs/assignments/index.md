@@ -17,6 +17,7 @@ tags:
 |[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Wednesday 5/18|
 |[**Revise Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Wednesday 5/18|
 |[**Rough Draft**](./week7/group_assignment.md)|Group Assignment|Wednesday 5/25|
+
 ## Past Assignments
 
 |Assignment|Type|Due|
