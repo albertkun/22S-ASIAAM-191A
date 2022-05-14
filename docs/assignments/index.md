@@ -16,6 +16,7 @@ tags:
 |[**Revise Surveys**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Monday 5/16|
 |[**Revise Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Wednesday 5/11|
 |[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Wednesday 5/18|
+|[**Conditional Visual Design**](./week7/group_assignment.md)|Group Assignment|Wednesday 5/25|
 
 ## Past Assignments
 
