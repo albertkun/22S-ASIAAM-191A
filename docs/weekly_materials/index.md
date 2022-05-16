@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Our role as facilitators](week07.md)
+[Mentorship and collaboration for social change](week08.md)
 
 ## Weekly overview
 
@@ -15,6 +15,7 @@
 |#5|[Science, Technology, and Ethics :link:](week05.md)|
 |#6|[Human-Centered Design :link:](week06.md)|
 |#7|[Our role as facilitators :link:](week07.md)|
+|#8|[Mentorship and collaboration for social change :link:](week08.md)|
 
 ## Course Materials
 
