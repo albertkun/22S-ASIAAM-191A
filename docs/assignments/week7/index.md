@@ -6,7 +6,7 @@ tags:
 ---
 # Week 7 Assignments List
 
-Below is the list of all assignments assigned at the start of week 5.
+Below is the list of all assignments assigned at the start of week 7.
 
 |Assignment|Type|Due|
 |-----------|----|---|
