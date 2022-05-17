@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|5/16|Social change as mentorship and collaboration|Lecture|Coming soon|Coming soon|
+|5/16|Social change as mentorship and collaboration|Lecture|[Here](../materials/AA191_S_W8_Lecture_8.pdf)|[Here](https://ucla.zoom.us/rec/share/6Pu-F3XRuqcHVMfMu4hlk5fuGr9z0Zlbk17iXcXh2niRsuvSygVNlMxFk7cBLbWy.Gm19ofPeXLC9ywE9)|
 |5/18|Working together with GitHub and plugins|Lab|Coming soon|Coming soon|
 
 ## Lecture
