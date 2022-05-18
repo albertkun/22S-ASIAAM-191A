@@ -2,7 +2,7 @@
 
 ## Current lab
 
-- [Conditionals, Map Layers, and Visual Design](week7/index.md)
+- [Collaborating with GitHub and plugins](week8/index.md)
 
 ### Lab Summary
 
@@ -15,6 +15,7 @@
 |#5|[Time 4 Loopin' and APIs](week5/index.md)|JavaScript|
 |#6|[Design DeCSSions](week6/index.md)|CSS,HTML,JavaScript|
 |#7|[Conditionals, Map Layers, and Visual Design](week7/index.md)|CSS,HTML,JavaScript|
+|#8|[Collaborating with GitHub and plugins](week7/index.md)|Git, GitHub, JavaScript|
 
 !!! warning "Remember!"
     Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
