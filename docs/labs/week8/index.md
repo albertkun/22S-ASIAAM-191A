@@ -1,14 +1,13 @@
 # Collaborating with GitHub and Plugins
 
 The goal of this lab is to get more familiar with coding for your final group projects.
-
-![](./media/intro.png){: style="max-width:300px"}
-
+l
 !!! tldr "Goals"
-    - Install and test the live share extension
     - Clone a new repository
     - Create a new branch
+    - Add a new Leaflet plugin
     - Create a pull request
+    - Install and test the live share extension
 
 This lab will start by cloning a new repository from the `git practicing repo` here:
 
