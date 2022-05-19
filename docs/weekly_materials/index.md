@@ -36,4 +36,4 @@
 |7|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|
 |7|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lab|[Here](../materials/AA191_S_W7_Lab_7.pdf)|[Here](https://tinyurl.com/mr2rfcvj)|
 |8|Social change as mentorship and collaboration|Lecture|[Here](../materials/AA191_S_W8_Lecture_8.pdf)|[Here](https://ucla.zoom.us/rec/share/6Pu-F3XRuqcHVMfMu4hlk5fuGr9z0Zlbk17iXcXh2niRsuvSygVNlMxFk7cBLbWy.Gm19ofPeXLC9ywE9)|
-|8|Collaborating with GitHub and plugins|Lab|[Here]((../materials/AA191_S_W8_Lab_8.pdf))|[Here](https://ucla.zoom.us/rec/share/bGYS8I5vMcMZc75eHZQjzCVNiHIaBa8Ek4eE55Y43bhMKdZVM_XK9RleBP9K4Mws.LhDqoP-NlCp4ksAS)|
+|8|Collaborating with GitHub and plugins|Lab|[Here](../materials/AA191_S_W8_Lab_8.pdf)|[Here](https://ucla.zoom.us/rec/share/bGYS8I5vMcMZc75eHZQjzCVNiHIaBa8Ek4eE55Y43bhMKdZVM_XK9RleBP9K4Mws.LhDqoP-NlCp4ksAS)|
