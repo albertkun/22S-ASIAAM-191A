@@ -31,7 +31,9 @@
 |4|Community-based Empowerment|Lab 4|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/0qPIjuRV9Ap2Kvnyz17OdYWno_1iQBtvOz1OAgg85Aq3SjD11icFRd_jphA28jcn.742EqdnjAnJkvp5O)|
 |5|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/z0dw7O212LaOZB2pAukEDsrLOE3_toOg067oi1olFxfQGXC-R-hk8LgYIA-XlpX5.68lSlBzkSJTBl2We)|
 |5|Time 4 Loopin’ and APIs|Lab|[Here](../materials/AA191_S_W5_Lab_5.pdf)|[Here](https://ucla.zoom.us/rec/share/mop3x7PNsUEXih-YDZIq5gJJ6pChREE17967YFkMK0l2-StzwdiibdUCUaTmAavv.PEYLoEaW1PDp8PA9)|
-|6|5/2|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/YQ2y-8CigA6it2jZwJ0ne7SY0ZuYZPaXeXh66nCpHirMIAuCq-1ld-WiGPw_l7yd.wki8t5ghrUM2aHSk)|
-|6|5/4|Designing for Civil Society|Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](https://ucla.zoom.us/rec/share/nT4EU-GEBnNz5hkG4fgCH7616xnFzLRq4Z2C0QUzSDpyku-G59YJ01og_bkXblOc.FR7tk6vFkT6hJ-39)|
-|7|5/9|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|
-|7|5/11|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lab|[Here](../materials/AA191_S_W7_Lab_7.pdf)|[Here](https://tinyurl.com/mr2rfcvj)|
+|6|Design DeciCSSions|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/YQ2y-8CigA6it2jZwJ0ne7SY0ZuYZPaXeXh66nCpHirMIAuCq-1ld-WiGPw_l7yd.wki8t5ghrUM2aHSk)|
+|6|Designing for Civil Society|Lecture|[Here](../materials/AA191_S_W6_Lecture_6.pdf)|[Here](https://ucla.zoom.us/rec/share/nT4EU-GEBnNz5hkG4fgCH7616xnFzLRq4Z2C0QUzSDpyku-G59YJ01og_bkXblOc.FR7tk6vFkT6hJ-39)|
+|7|Putting the “us” in Design JUStice|Lecture|[Here](../materials/AA191_S_W7_Lecture_7.pdf)|[Here](https://tinyurl.com/4x77ew26)|
+|7|[Conditionals, Map Layers, and Visual Design](../labs/week7/index.md)|Lab|[Here](../materials/AA191_S_W7_Lab_7.pdf)|[Here](https://tinyurl.com/mr2rfcvj)|
+|8|Social change as mentorship and collaboration|Lecture|[Here](../materials/AA191_S_W8_Lecture_8.pdf)|[Here](https://ucla.zoom.us/rec/share/6Pu-F3XRuqcHVMfMu4hlk5fuGr9z0Zlbk17iXcXh2niRsuvSygVNlMxFk7cBLbWy.Gm19ofPeXLC9ywE9)|
+|8|Collaborating with GitHub and plugins|Lab|[Here]((../materials/AA191_S_W8_Lab_8.pdf))|[Here](https://ucla.zoom.us/rec/share/bGYS8I5vMcMZc75eHZQjzCVNiHIaBa8Ek4eE55Y43bhMKdZVM_XK9RleBP9K4Mws.LhDqoP-NlCp4ksAS)|
