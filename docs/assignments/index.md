@@ -11,15 +11,17 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Wednesday 5/18|
-|[**Revise Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Friday 5/20|
 |[**In-class Thinking Cap**](./week8/thinking_cap.md)|Thinking Cap|Monday 5/16 or 5/23|
 |[**Rough Draft**](./week7/group_assignment.md)|Group Assignment|Wednesday 5/25|
+|[**Final Thinking Cap**](./week9/thinking_cap.md)|Thinking Cap|Wednesday 6/1|
+|[**Final Group Assignment**](./final.md)|Thinking Cap|Wednesday 6/8|
 
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Wednesday 5/18|
+|[**Revise Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Friday 5/20|
 |[**Data Justice**](./week7/reading.md)|Weekly Reading|Monday 5/16|
 |[**The connection between Data Justice, Design Justice, and us**](./week7/thinking_cap.md)|Thinking Cap|Monday 5/16|
 |[**Revise Surveys**](https://forms.gle/8TU2Hj8o6J7UYjZ7A)|Group Assignment|Monday 5/16|

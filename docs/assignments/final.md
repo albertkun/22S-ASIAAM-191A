@@ -1,7 +1,5 @@
-
-
 # Final Group Assignment
-### Due 6/8, 1pm - 4pm
+### Due 6/8 1pm - 4pm
 As our course nears the end, the final group project is the way to practice implementing the skills and ethical frameworks in the class. Your task as a group is to work together to complete the community empowerment web application based off of the rough draft from Week 9. The final project should be fully functional with no bugs and must have an intuitive interface for the user stories outlined in the project memo.
 
 Groups will give a 12-15 minute presentation with another 5 minutes for questions and answers. Everyone must speak. Please see the requirements below for more details. 
@@ -19,6 +17,7 @@ Criteria | Points
 **User story/interface/experience**| 40
 **Individual Group Evaluation**| 25
 **Repository Documentation**| 25
+**Total**| **250**
 
 ## Rubric
 ### 1. **Empowerment of civil society**
@@ -37,21 +36,33 @@ This course is designed around the principles of collaboration. In order to get 
 Complete the `readme.md` for the project repository by including a table of contents, a screenshot of the mapplication in action and what features/interactivity exists. Provide a simple explanation of the file structure. The `readme.md` should read as one cohesive documentation. Refer to [this article for guidance](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project). 
 
 Your final `readme.md` should have the following parts:
-   - Table of Contents
-   - Objective (Assignment #1)
-     - Who is being empowered (Assignment #2)
-   - What technology was used (Assignment #5)
-   - How it can be repurposed (Assignment #5)
-   - The features and a screenshot(s) of the mapplication
-   - Utilize the [above article's](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [`readme.md` template or something similar](https://github.com/ritaly/README-cheatsheet)
+
+- Table of Contents
+
+- Objective (Assignment #1)
+
+  - Who is being empowered (Assignment #2)
+
+- What technology was used (Assignment #5)
+
+- How it can be repurposed (Assignment #5)
+
+- The features and a screenshot(s) of the mapplication
+
+- Utilize the [above article's](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) [`readme.md` template or something similar](https://github.com/ritaly/README-cheatsheet)
 
 ## Presentation Guidelines
 Overall, you should be pitching the project to the audience, not simply demoing your website!
-1.	Introduce the project (1 minute)
-2.	Who is the project for and why is it important? (2-3 mins) 
-3.	What does your website do, and how does it empower people? (2-3 mins)
-4.	Demo of the website (or screenshots) (2-3 mins)
-5.	How would you like your project to be used in the future or by the community members? (3 mins)
+
+1. Introduce the project (1 minute)
+
+2. Who is the project for and why is it important? (2-3 mins) 
+
+3. What does your website do, and how does it empower people? (2-3 mins)
+
+4. Demo of the website (or screenshots) (2-3 mins)
+
+5. How would you like your project to be used in the future or by the community members? (3 mins)
 
 
 ## Submission
