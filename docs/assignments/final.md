@@ -31,6 +31,7 @@ Give a 12 to 15 minute presentation explaining the application, who it's designe
 
 ### 5. **Individual Group Evaluation** 
 This course is designed around the principles of collaboration. In order to get a sense of how the group dynamics were and to reflect your own contributions to the group, each member must evaluate themselves and their groupmates using this form:
+
 - https://forms.office.com/r/j46zZywbgV
 ### 6. **Repository Documentation** 
 Complete the `readme.md` for the project repository by including a table of contents, a screenshot of the mapplication in action and what features/interactivity exists. Provide a simple explanation of the file structure. The `readme.md` should read as one cohesive documentation. Refer to [this article for guidance](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project). 
