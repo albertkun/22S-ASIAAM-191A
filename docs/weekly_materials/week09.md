@@ -1,4 +1,4 @@
-# Week 8 - Connecting activism, technology, and social change
+# Week 9 - Connecting activism, technology, and social change
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|

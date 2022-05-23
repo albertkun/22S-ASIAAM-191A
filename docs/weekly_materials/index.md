@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Mentorship and collaboration for social change](week08.md)
+[Connecting activism, technology, and social change](week09.md)
 
 ## Weekly overview
 
@@ -16,6 +16,7 @@
 |#6|[Human-Centered Design :link:](week06.md)|
 |#7|[Our role as facilitators :link:](week07.md)|
 |#8|[Mentorship and collaboration for social change :link:](week08.md)|
+|#9|[Connecting activism, technology, and social change :link:](week09.md)|
 
 ## Course Materials
 
