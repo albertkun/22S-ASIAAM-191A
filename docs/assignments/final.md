@@ -69,6 +69,7 @@ Overall, you should be pitching the project to the audience, not simply demoing 
 ## Submission
 - [Select a presentation slot on the final sheet](https://docs.google.com/spreadsheets/d/1amjsdypbGuijuiQtI44UNupEzJET94IFLNp0FVMT01w/edit?usp=sharing)
 - Separately take the [individual group evaluation](https://forms.office.com/r/j46zZywbgV)
-- Post your group's repository and website link in the upcoming assignment thread.
+- Post your group's repository and website link in this thread:
+  - [https://github.com/albertkun/22S-ASIAAM-191A/discussions/39](https://github.com/albertkun/22S-ASIAAM-191A/discussions/39)
 
 
