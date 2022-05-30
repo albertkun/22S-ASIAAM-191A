@@ -17,7 +17,7 @@ Date|Type|Description|Slides|Recording|
 
 [Nina Kin](http://www.ninakin.com/) works as the [Technical Lead at Los Angeles Metro](https://developer.metro.net/api/) and active in spaces of civic tech and mapping. She is a full stack programmer and technology generalist who is passionate about improving the way government works.
 
-Contact: [KinN@metro.net](KinN@metro.net)
+Contact: [KinN@metro.net](mailto:KinN@metro.net)
 
 ## Lab
 
