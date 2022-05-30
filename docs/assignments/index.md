@@ -11,7 +11,6 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Rough Draft**](./week7/group_assignment.md)|Group Assignment|Wednesday 5/25|
 |[**Final Thinking Cap**](./week9/thinking_cap.md)|Thinking Cap|Wednesday 6/1|
 |[**Final Group Assignment**](./final.md)|Thinking Cap|Wednesday 6/8|
 
@@ -19,6 +18,7 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Rough Draft**](./week7/group_assignment.md)|Group Assignment|Wednesday 5/25|
 |[**In-class Thinking Cap**](./week8/thinking_cap.md)|Thinking Cap|Monday 5/16 or 5/23|
 |[**Conditional Visual Design**](./week7/lab_assignment.md)|Lab Assignment|Wednesday 5/18|
 |[**Revise Survey Diagram and Wireframe**](./week6/group_assignment.md)|Group Assignment|Friday 5/20|
