@@ -2,7 +2,7 @@
 
 ## Current week
 
-[Connecting activism, technology, and social change](week09.md)
+[Beyond Web Development and GIS for Social Change](week10.md)
 
 ## Weekly overview
 
@@ -17,6 +17,7 @@
 |#7|[Our role as facilitators :link:](week07.md)|
 |#8|[Mentorship and collaboration for social change :link:](week08.md)|
 |#9|[Connecting activism, technology, and social change :link:](week09.md)|
+|#10|[Beyond Web Development and GIS for Social Change :link:](week10.md)|
 
 ## Course Materials
 
