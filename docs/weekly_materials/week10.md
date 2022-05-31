@@ -7,7 +7,7 @@ Date|Type|Description|Slides|Recording|
 
 ## Lab
 
-- [Final Finishing Touches](../labs/week9-10/)
+- [Final Finishing Touches](../../labs/week9-10/)
 
 ## Lecture
 
