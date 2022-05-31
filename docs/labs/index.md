@@ -2,7 +2,7 @@
 
 ## Current lab
 
-- [Collaborating with GitHub and plugins](week8/index.md)
+- [Final Finishing Touches](week9-10/index.md)
 
 ### Lab Summary
 
@@ -16,6 +16,7 @@
 |#6|[Design DeCSSions](week6/index.md)|CSS,HTML,JavaScript|
 |#7|[Conditionals, Map Layers, and Visual Design](week7/index.md)|CSS,HTML,JavaScript|
 |#8|[Collaborating with GitHub and plugins](week8/index.md)|Git, GitHub, JavaScript|
+|#9-#10|[Final Finishing Touches](week9-10/index.md)|Git, GitHub, JavaScript|
 
 !!! warning "Remember!"
     Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
