@@ -12,3 +12,9 @@ Date|Type|Description|Slides|Recording|
 ## Lecture
 
 - Beyond Web Development and GIS for Social Change
+
+### Links from lecture
+
+  - [Spring 2022 Koreatown Hangout](https://docs.google.com/forms/d/e/1FAIpQLSeOyQGW0usgVg3XBJNNIR-KhbH0cT0_HSGGwN0wYBpmcZLHXg/viewform)
+  - [Spring 2022 Yearbook](https://docs.google.com/document/d/1djwzmSTmr1XdEYdkosqEoY55DfYAgwVJKzu8g5e3stU/edit?usp=sharing)
+  - [AA191-A Newsletter](https://albertmaps.com/newsletter/)
