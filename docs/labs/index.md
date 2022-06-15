@@ -1,9 +1,5 @@
 # Labs
 
-## Current lab
-
-- [Final Finishing Touches](week9-10/index.md)
-
 ### Lab Summary
 
 |Lab|Title|Topic|
