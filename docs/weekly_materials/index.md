@@ -1,9 +1,5 @@
 # Summary
 
-## Current week
-
-[Beyond Web Development and GIS for Social Change](week10.md)
-
 ## Weekly overview
 
 |Week|Topic|

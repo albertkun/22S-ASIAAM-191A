@@ -4,19 +4,11 @@ hide:
 tags:
   - Assignments
 ---
-# Current assignments
-
-!!! warning "Due dates!"
-    Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
-
-|Assignment|Type|Due|
-|-----------|----|---|
-|[**Final Group Assignment**](./final.md)|Thinking Cap|Wednesday 6/8|
-
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Final Group Assignment**](./final.md)|Thinking Cap|Wednesday 6/8|
 |[**Final Thinking Cap**](./week9/thinking_cap.md)|Thinking Cap|Wednesday 6/1|
 |[**Rough Draft**](./week7/group_assignment.md)|Group Assignment|Wednesday 5/25|
 |[**In-class Thinking Cap**](./week8/thinking_cap.md)|Thinking Cap|Monday 5/16 or 5/23|
